@@ -1,0 +1,59 @@
+baseURL = "https://yael.ca/"
+languageCode = "en-us"
+title = "Yaël Ossowski"
+theme = "hugo-blog-awesome"
+
+[author]
+  name = "Yaël Ossowski"
+  email = ""
+
+[params]
+  description = "la liberté avant tout"
+  goToTop = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.author]
+  name = "Yaël Ossowski"
+  intro = "Bonjour, I'm Yaël."
+  avatar = "images/avatar.jpg"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menus.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+[[menus.main]]
+  name = "Categories"
+  url = "/categories/"
+  weight = 3
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 4
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://linkedin.com/in/yaeloss"
+
+[[params.socialIcons]]
+  name = "nostr"
+  url = "https://primal.net/yael"
+
+[[params.socialIcons]]
+  name = "x"
+  url = "https://x.com/YaelOss"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yaeloss"
