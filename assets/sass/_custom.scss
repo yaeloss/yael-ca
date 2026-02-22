@@ -1,0 +1,244 @@
+html {
+  font-size: 17.5px;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+p, li, blockquote {
+  font-family: 'Lora', Georgia, serif;
+}
+
+// ── Tighten header top gap ────────────────────────────────────────
+.header {
+  margin-top: 2.5rem;
+}
+
+// ── Post cover image ─────────────────────────────────────────────
+.post-cover {
+  margin: 1.5rem 0 2rem;
+}
+
+.post-cover-img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  display: block;
+}
+
+// ── Post meta (date + category) ───────────────────────────────────
+.post-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.1rem;
+  font-size: 0.9rem;
+}
+
+.post-category {
+  text-decoration: none;
+  color: inherit;
+  opacity: 0.75;
+
+  &:hover {
+    color: #003fff;
+    opacity: 1;
+  }
+}
+
+.post-meta-sep {
+  opacity: 0.5;
+}
+
+// ── Light mode background ─────────────────────────────────────────
+body:not(.dark *) {
+  background-color: #FBF5EF;
+}
+
+html:not(.dark) body {
+  background-color: #FBF5EF;
+}
+
+// ── Navbar: centered stacked layout ──────────────────────────────
+.navbar .menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.6rem 0;
+}
+
+.logo {
+  float: none !important;
+  font-size: 1.7rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem 0 !important;
+  text-align: center;
+  text-decoration: none;
+}
+
+.navbar .menu .trigger {
+  float: none !important;
+  justify-content: center;
+}
+
+.navbar .menu .menu-icon {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+}
+
+// ── Home bio section ──────────────────────────────────────────────
+.home-bio {
+  text-align: center;
+  padding: 2rem 0 1.5rem;
+}
+
+.home-avatar {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto 1.5rem;
+}
+
+.home-intro {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+  color: inherit;
+}
+
+.home-bio-text {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  max-width: 560px;
+  margin: 0 auto 0.75rem;
+  color: inherit;
+}
+
+// ── Search box ───────────────────────────────────────────────────
+.home-search {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1.75rem;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 380px;
+  padding: 0.55rem 0.9rem;
+  font-size: 1rem;
+  font-family: 'Lora', Georgia, serif;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background: inherit;
+  color: inherit;
+
+  &:focus {
+    outline: 2px solid #003fff;
+    border-color: #003fff;
+  }
+}
+
+.search-btn {
+  padding: 0.55rem 1.2rem;
+  font-size: 1rem;
+  font-family: 'Lora', Georgia, serif;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  cursor: pointer;
+  background: #0d122b;
+  color: #fff;
+
+  &:hover {
+    background: #003fff;
+    border-color: #003fff;
+  }
+}
+
+// ── Search results ───────────────────────────────────────────────
+.search-results {
+  margin-top: 1.5rem;
+}
+
+.search-result-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ececec;
+  gap: 1rem;
+
+  a {
+    font-size: 1rem;
+    text-decoration: none;
+
+    &:hover {
+      color: #003fff;
+    }
+  }
+}
+
+.search-result-date {
+  font-size: 0.85rem;
+  color: #6b7886;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.search-no-results {
+  text-align: center;
+  color: #6b7886;
+  margin-top: 1rem;
+}
+
+// ── Categories / Terms list ──────────────────────────────────────
+.terms-list {
+  list-style: none;
+  margin: 1rem 0 0;
+  padding: 0;
+  columns: 2;
+  column-gap: 2rem;
+
+  @media (max-width: 600px) {
+    columns: 1;
+  }
+}
+
+.terms-item {
+  padding: 0.35rem 0;
+  border-bottom: 1px solid rgba(0,0,0,0.07);
+  break-inside: avoid;
+
+  a {
+    text-decoration: none;
+    color: inherit;
+    &:hover { color: #003fff; }
+  }
+}
+
+.terms-count {
+  font-size: 0.85rem;
+  opacity: 0.5;
+  margin-left: 0.3rem;
+}
+
+// ── Dark mode adjustments ────────────────────────────────────────
+.dark {
+  .search-input {
+    border-color: #4a4d56;
+    &:focus { outline-color: #77a8fd; border-color: #77a8fd; }
+  }
+
+  .search-btn {
+    background: #eaeaea;
+    color: #131418;
+    border-color: #4a4d56;
+    &:hover { background: #77a8fd; border-color: #77a8fd; color: #fff; }
+  }
+
+  .search-result-item {
+    border-bottom-color: #1b1d25;
+  }
+}

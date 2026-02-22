@@ -1,0 +1,30 @@
+{{ $avatar_img := .Site.Params.author.avatar }}
+{{ $avatar_img_alt := .Site.Params.author.name }}
+{{ $image := resources.Get $avatar_img }}
+<div class="home-bio">
+    {{ with $image }}
+    {{ if eq .MediaType.SubType "svg" }}
+    <svg class="home-avatar" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+        <image width="200" height="200" href="{{ $image.RelPermalink }}" />
+    </svg>
+    {{ else }}
+    {{ $image1x := $image.Fill "200x200 center webp" }}
+    {{ $image2x := $image.Fill "400x400 center webp" }}
+    <img
+        class="home-avatar"
+        src="{{ $image1x.RelPermalink }}"
+        srcset="{{ $image2x.RelPermalink }} 2x"
+        alt="{{ $avatar_img_alt }}"
+        width="{{ $image1x.Width }}"
+        height="{{ $image1x.Height }}" />
+    {{ end }}
+    {{ end }}
+
+    <h1 class="home-intro">{{ .Site.Params.author.intro | default (printf "Hi, I'm %s." .Site.Params.author.name) }}</h1>
+    <h1><center>🇨🇦🇺🇸</center></h1>
+
+    <p class="home-bio-text">Consumer advocate, policy analyst, and writer who covers technology, privacy, energy, and lifestyle freedom.</p>
+    <p class="home-bio-text">At present, I'm deputy director at the <b><i><a href="https://consumerchoicecenter.org">Consumer Choice Center</a></b></i> and a fellow at the <b><i><a href="https://www.btcpolicy.org/">Bitcoin Policy Institute</a></b></i>.</p>
+    <p class="home-bio-text">Recent writing and media appearances found <b><i><a href="/posts/">here</a></b></i>.</p>
+
+</div>
