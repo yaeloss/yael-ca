@@ -17,19 +17,11 @@
                 {{ end }}
             </header>
 
-            {{ with .Params.coverImage }}
-            {{ $imgPath := printf "images/%s" . }}
-            {{ with $.Resources.GetMatch $imgPath }}
-            {{ $img := .Fit "900x500 webp" }}
-            <div class="post-cover">
-                <img src="{{ $img.RelPermalink }}"
-                     width="{{ $img.Width }}"
-                     height="{{ $img.Height }}"
-                     alt="{{ $.Title }}"
-                     class="post-cover-img" />
-            </div>
-            {{ end }}
-            {{ end }}
+{{ with .Params.featured_image }}
+<div class="post-cover">
+    <img src="{{ . }}" alt="{{ $.Title }}" class="post-cover-img" />
+</div>
+{{ end }}
 
             {{ partial "toc.html" .}}
             <div class="page-content">
