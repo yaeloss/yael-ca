@@ -10,6 +10,7 @@ theme = "hugo-blog-awesome"
 [params]
   description = "la liberté avant tout"
   goToTop = true
+  favicon = "favicon.ico"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
