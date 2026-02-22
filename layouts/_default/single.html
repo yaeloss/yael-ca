@@ -19,7 +19,7 @@
 
 {{ with .Params.featured_image }}
 <div class="post-cover">
-    <img src="{{ . }}" alt="{{ $.Title }}" class="post-cover-img" />
+    <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="post-cover-img" />
 </div>
 {{ end }}
 
