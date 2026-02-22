@@ -2,7 +2,7 @@ backend:
   name: github
   repo: yaeloss/yael-ca
   branch: main
-  base_url: https://wonderful-squirrel-ccb15f.netlify.app
+  base_url: https://auth.yael.live
   auth_endpoint: auth
 
 media_folder: static/images/uploads
