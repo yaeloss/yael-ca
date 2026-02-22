@@ -2,6 +2,9 @@
 title: Supreme Court tariff ruling a victory for consumers, balance of power
 date: 2026-02-20T20:41:00.000+01:00
 draft: false
+categories:
+  - Vidoes
+featured_image: /images/uploads/fox5-tariffs.jpg
 ---
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/4uvN60kDwBY?si=uTHLg-ow7tHQJCya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
