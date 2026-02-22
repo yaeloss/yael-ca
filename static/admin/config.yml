@@ -2,6 +2,8 @@ backend:
   name: github
   repo: yaeloss/yael-ca
   branch: main
+  base_url: https://api.netlify.com
+  auth_endpoint: auth
 
 media_folder: static/images/uploads
 public_folder: /images/uploads
