@@ -1,4 +1,4 @@
-baseURL = "https://yael.ca/"
+baseURL = "https://yaeloss.github.io/yael-ca/"
 languageCode = "en-us"
 title = "Yaël Ossowski"
 theme = "hugo-blog-awesome"

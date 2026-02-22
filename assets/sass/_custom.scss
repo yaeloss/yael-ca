@@ -59,6 +59,10 @@ html:not(.dark) body {
 }
 
 // ── Navbar: centered stacked layout ──────────────────────────────
+.navbar {
+  position: relative;
+}
+
 .navbar .menu {
   display: flex;
   flex-direction: column;
