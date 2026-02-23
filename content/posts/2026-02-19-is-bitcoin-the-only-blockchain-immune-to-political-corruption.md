@@ -4,6 +4,7 @@ date: 2026-02-19T20:00:00.000+01:00
 draft: false
 categories:
   - Bitcoin
+  - Bitcoin Policy Institute
 featured_image: images/uploads/btc-immune-1.jpg
 ---
 **Bitcoin's decentralized design makes it uniquely resistant to corruption—and Washington's digital asset regulation should reflect that distinction.**
