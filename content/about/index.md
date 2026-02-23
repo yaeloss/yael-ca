@@ -26,6 +26,6 @@ My work has been featured and syndicated in USA Today, the Hill, Boston Herald, 
 
 Born in Québec, raised in the American south, and spend most of my days split between Central Europe and Washington, D.C.
 
-<center><b><i>Mon pays ce n'est pas un pays, c'est l'hiver</center></b></i>.
+<center><b><i>Mon pays ce n'est pas un pays, c'est l'hiver.</center></b></i>
 
-<center><b><i>Heimat ist kein Ort, Heimat ist ein Gefühl</center></b></i>.
+<center><b><i>Heimat ist kein Ort, Heimat ist ein Gefühl.</center></b></i>
