@@ -12,12 +12,14 @@
 {{- $pages = $pages | first $limit -}}
 {{- end -}}
 {{- $rssFeedDescription := .Site.Params.rssFeedDescription | default "summary" -}}
+{{- $rssTitle := .Site.Params.rssTitle | default (cond (eq .Title .Site.Title) .Site.Title (printf "%s on %s" .Title .Site.Title)) -}}
+{{- $rssDescription := .Site.Params.rssDescription | default (printf "Recent content %son %s" (cond (ne .Title .Site.Title) (printf "in %s " .Title) "") .Site.Title) -}}
 {{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
+    <title>{{ $rssTitle }}</title>
     <link>{{ .Permalink }}</link>
-    <description>Recent content {{ if ne  .Title  .Site.Title }}{{ with .Title }}in {{.}} {{ end }}{{ end }}on {{ .Site.Title }}</description>
+    <description>{{ $rssDescription }}</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>{{ site.Language.LanguageCode }}</language>{{ with .Site.Params.author.email }}
     <managingEditor>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Params.author.email }}
