@@ -12,6 +12,8 @@ Yaël Ossowski of the Consumer Choice Center join FOX 5 DC's Jim Lokay to put an
 
 Not only will this be a boon to consumers and their pocketbooks, it's also a victory for the American system that splits power among three separate but co-equal branches. 
 
+Video on [Fox 5 DC's website here](https://www.fox5dc.com/video/fmc-mxmc2l5n7o3s9l8c.amp).
+
 February 20, 2026 
 
 https://consumerchoicecenter.org
