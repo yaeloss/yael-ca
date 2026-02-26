@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+{{- $defaultColor := .Site.Params.defaultColor | default "auto" -}}
+
+{{- if eq $defaultColor "dark" -}}
+<html lang="{{ .Site.LanguageCode }}" class="dark">
+{{- else if eq $defaultColor "light" -}}
+<html lang="{{ .Site.LanguageCode }}" class="light">
+{{- else -}}
+<html lang="{{ .Site.LanguageCode }}">
+{{- end -}}
+
+{{- partial "head.html" . -}}
+
+<body data-theme="{{ $defaultColor }}" class="notransition">
+  {{- partial "scriptsBodyStart.html" . -}}
+  {{- partial "header.html" . -}}
+
+  <script>
+    (function () {
+      var path = window.location.pathname;
+      // Redirect root-level slugs (old post URLs) to /posts/
+      // Leaves /posts/, /about/, /categories/, etc. untouched
+      if (path.match(/^\/[^\/]+\/?$/) && path !== '/') {
+        var newUrl = '/posts' + (path.endsWith('/') ? path : path + '/');
+        window.location.replace(newUrl);
+      }
+    })();
+  </script>
+
+  <div class="wrapper">
+    <main class="main-404" aria-label="Content">
+      <h1>404 NOT FOUND</h1>
+      <p>Sorry mate, you hit a snag.</p>
+      <p>Try a search to find what you're looking for:</p>
+
+      <div id="search-results" class="search-results" aria-live="polite"></div>
+
+      <div class="home-search">
+        <input type="text" id="search-input" class="search-input" placeholder="Search articles..." aria-label="Search articles" />
+        <button id="search-btn" class="search-btn">Search</button>
+      </div>
+    </main>
+  </div>
+
+  {{- partial "footer.html" . -}}
+  {{- partial "scriptsBodyEnd.html" . -}}
+</body>
+
+</html>
