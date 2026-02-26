@@ -6,7 +6,7 @@ categories:
   - "podcast"
 tags: 
   - "les-malentendus"
-coverImage: "cheznous.png"
+coverImage: "cheznous.jpg"
 ---
 
 <iframe src="https://player.rss.com/malentendus/373729" style="width: 100%" title="Les Malentendus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/malentendus/373729/">EP3: Pas chez nous | RSS.com Podcasting</a></iframe>

@@ -8,7 +8,7 @@ tags:
   - "amtrack"
   - "electrical-vehicles"
   - "interviews"
-coverImage: "train-yt.png"
+coverImage: "train-yt.jpg"
 ---
 
 <iframe src="https://omny.fm/shows/ccc/gimme-that-train-competition-ya-l-on-joe-catenacci/embed" width="100%" height="180" frameborder="0" title="Gimme that Train Competition (Yaël on Joe Catenacci Show  - Big Talker FM)"></iframe>

@@ -6,7 +6,7 @@ categories:
   - "podcast"
 tags: 
   - "les-malentendus"
-coverImage: "malentendus.png"
+coverImage: "malentendus.jpg"
 ---
 
 <iframe src="https://player.rss.com/malentendus/360374" style="width: 100%" title="Les Malentendus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/malentendus/360374/">Un tout beau début | RSS.com Podcasting</a></iframe>

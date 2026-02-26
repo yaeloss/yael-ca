@@ -3,7 +3,7 @@ title: "Oops, your data's been exposed. What can you do?"
 date: 2024-11-18
 categories: 
   - "consumer-choice-center"
-coverImage: "hack.png"
+coverImage: "hack.jpg"
 ---
 
 This week, I [received](https://x.com/YaelOss/status/1858541231938097520) a letter from an employer of mine from when I was in high school, a local car wash.

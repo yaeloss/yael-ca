@@ -12,7 +12,7 @@ tags:
   - "chinese-communist-party"
   - "consumer-choice-radio"
   - "rachel-chiu"
-coverImage: "ep-63.png"
+coverImage: "ep-63.jpg"
 ---
 
 https://youtu.be/BrqY-15HLW0
