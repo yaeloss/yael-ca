@@ -1,6 +1,7 @@
 ---
 title: Is Bitcoin the Only Blockchain Immune to Political Corruption?
 date: 2026-02-19T20:00:00.000+01:00
+slug: is-bitcoin-the-only-blockchain-immune-to-political-corruption
 draft: false
 categories:
   - Bitcoin
