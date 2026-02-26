@@ -16,15 +16,22 @@
   {{- partial "header.html" . -}}
 
   <script>
-    (function () {
-      var path = window.location.pathname;
-      // Redirect root-level slugs (old post URLs) to /posts/
-      // Leaves /posts/, /about/, /categories/, etc. untouched
-      if (path.match(/^\/[^\/]+\/?$/) && path !== '/') {
-        var newUrl = '/posts' + (path.endsWith('/') ? path : path + '/');
-        window.location.replace(newUrl);
-      }
-    })();
+(function () {
+    var path = window.location.pathname;
+
+    // Redirect old WordPress /tag/foo/ → /tags/foo/
+    if (path.match(/^\/tag\/[^\/]+\/?$/)) {
+      window.location.replace(path.replace('/tag/', '/tags/'));
+      return;
+    }
+
+    // Redirect root-level slugs (old post URLs) → /posts/
+    // Leaves /posts/, /about/, /categories/, etc. untouched
+    if (path.match(/^\/[^\/]+\/?$/) && path !== '/') {
+      var newUrl = '/posts' + (path.endsWith('/') ? path : path + '/');
+      window.location.replace(newUrl);
+    }
+  })();
   </script>
 
   <div class="wrapper">
