@@ -7,7 +7,7 @@ tags:
   - "expat"
   - "podcast"
   - "the-innocents-abroad"
-coverImage: "meatless.png"
+coverImage: "meatless.jpg"
 ---
 
 <script src="https://www.buzzsprout.com/459604/1490422-27-meatless-burger-mania.js?player=small" type="text/javascript" charset="utf-8"></script>

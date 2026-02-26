@@ -6,7 +6,7 @@ categories:
 tags: 
   - "oslo-freedom-forum"
   - "panam-post"
-coverImage: "OSLO.png"
+coverImage: "OSLO.jpg"
 ---
 
 #### HRF Brings New Level of Professionalism to Unofficial Dissident Capital

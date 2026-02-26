@@ -8,7 +8,7 @@ tags:
   - "journalisme"
   - "les-malentendus"
   - "presse"
-coverImage: "journalisme.png"
+coverImage: "journalisme.jpg"
 ---
 
 <iframe src="https://player.rss.com/malentendus/367997" style="width: 100%" title="rss embed thingy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/malentendus/367997/">Le journalisme | RSS.com Podcasting</a></iframe>

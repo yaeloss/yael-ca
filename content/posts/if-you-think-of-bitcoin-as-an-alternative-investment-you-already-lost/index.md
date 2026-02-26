@@ -9,7 +9,7 @@ tags:
   - "exchanges"
   - "ftx"
   - "investment"
-coverImage: "btc-factory.png"
+coverImage: "btc-factory.jpg"
 ---
 
 ## Bitcoin is a savings technology. The paradigm shift afforded by Satoshi’s innovation was the ability to claim absolute and sovereign ownership.

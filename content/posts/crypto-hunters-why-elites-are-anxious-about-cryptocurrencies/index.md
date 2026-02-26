@@ -13,7 +13,7 @@ tags:
   - "sec"
   - "the-european-conservative"
   - "yael-ossowski"
-coverImage: "btc-factory.png"
+coverImage: "btc-factory.jpg"
 ---
 
 Over the last decade, while we have lived through the ebbs and flows of global crises, triumphs, and changes, a ‘paradigm shift’ has been happening across a network of interconnected computers. This shift began in 2008 when the pseudonymous ‘Satoshi Nakamoto’ unveiled his [new project](https://bitcoin.org/bitcoin.pdf): a trustless peer-to-peer network of monetary transactions that would be recorded on a decentralized public ledger. This new version of ‘electronic cash’ was called Bitcoin.
