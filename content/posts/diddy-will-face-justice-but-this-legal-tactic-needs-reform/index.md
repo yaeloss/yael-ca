@@ -7,7 +7,7 @@ tags:
   - "lawsuits"
   - "legal-reform"
   - "p-diddy"
-coverImage: "diddy.png"
+coverImage: "diddy.jpg"
 ---
 
 After Texas trial attorney Tony Buzbee took to a podium in October to [reveal](https://www.youtube.com/watch?v=XzD-bzauH_Y) he had gathered 120 victims to sue Sean “Puff Daddy” Combs, it unleashed a flood of more allegations against the billionaire rapper and record executive. There are now close to [two dozen civil lawsuits](https://www.nytimes.com/article/sean-combs-diddy-lawsuits-accusations.html?t) pending against Combs in both federal and state courts, along with his criminal [indictment](https://www.justice.gov/usao-sdny/pr/sean-combs-charged-manhattan-federal-court-sex-trafficking-and-other-federal-offenses) for sex trafficking, assault, and a host of other charges that could land him in jail for life.

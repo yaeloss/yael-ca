@@ -12,7 +12,7 @@ tags:
   - "wind-energy"
   - "wind-power"
   - "wind-turbines"
-coverImage: "trump-windd.png"
+coverImage: "trump-windd.jpg"
 ---
 
 President Donald Trump was relentless on the campaign trail in his [commitment to unleash American prosperity](https://www.atlanticcouncil.org/blogs/new-atlanticist/donald-trump-just-won-the-presidency-our-experts-answer-the-big-questions-about-what-that-means-for-americas-role-in-the-world/) with an energy revolution.
