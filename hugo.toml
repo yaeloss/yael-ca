@@ -2,6 +2,7 @@ baseURL = "https://yael.ca/"
 languageCode = "en-us"
 title = "Yaël Ossowski"
 theme = "hugo-blog-awesome"
+googleAnalytics = "G-44MPTZ5W07"
 copyright = "© Yaël Ossowski. All rights reserved."
 
 [author]
@@ -70,3 +71,4 @@ copyright = "© Yaël Ossowski. All rights reserved."
 [[params.socialIcons]]
   name = "rss"
   url = "https://yael.ca/index.xml"
+  
