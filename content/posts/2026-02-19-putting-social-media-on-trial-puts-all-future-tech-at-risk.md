@@ -1,6 +1,7 @@
 ---
 title: Putting Social Media On Trial Puts All Future Tech At Risk
 date: 2026-02-19T10:00:00.000+01:00
+slug: putting-social-media-on-trial-puts-all-future-tech-at-risk
 draft: false
 categories:
   - Videos

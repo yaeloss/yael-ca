@@ -1,6 +1,7 @@
 ---
 title: Supreme Court tariff ruling a victory for consumers, balance of power
 date: 2026-02-20T20:41:00.000+01:00
+slug: supreme-court-tariff-ruling-a-victory-for-consumers-balance-of-power-yael-on-fox5-dc
 draft: false
 categories:
   - Videos
