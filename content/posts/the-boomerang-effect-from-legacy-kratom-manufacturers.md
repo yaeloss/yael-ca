@@ -42,8 +42,8 @@ The central point isn’t that concentrated 7-OH products are harmless. It’s t
 
 And, as always, the first victims are the consumers who depend on a product to manage their conditions.
 
-___
+- - -
 
 *Yaël Ossowski is deputy director at the Consumer Choice Center.*
 
-*Published at [Florida Politics](https://floridapolitics.com/archives/783221-yael-ossowski-the-boomerang-effect-from-legacy-kratom-manufacturers/) (archive [\#1](https://web.archive.org/web/20260305093919/https://floridapolitics.com/archives/783221-yael-ossowski-the-boomerang-effect-from-legacy-kratom-manufacturers/), #2).*
+*Published at [Florida Politics](https://floridapolitics.com/archives/783221-yael-ossowski-the-boomerang-effect-from-legacy-kratom-manufacturers/) (archive [\#1](https://web.archive.org/web/20260305093919/https://floridapolitics.com/archives/783221-yael-ossowski-the-boomerang-effect-from-legacy-kratom-manufacturers/), [\#2](https://archive.ph/WWKsn)).*
