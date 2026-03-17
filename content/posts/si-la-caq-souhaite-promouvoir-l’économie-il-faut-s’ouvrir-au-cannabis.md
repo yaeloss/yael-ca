@@ -4,7 +4,7 @@ date: 2018-10-27T06:55:00.000+02:00
 draft: false
 categories:
   - Les Affaires
-  - Français
+  - Francais
 featured_image: images/uploads/caq.jpg
 ---
 Le nouveau premier ministre du Québec François Legault, de la Coalition Avenir Québec (CAQ), dit qu'il veut remettre plus d'argent dans les portefeuilles des Québécois.
