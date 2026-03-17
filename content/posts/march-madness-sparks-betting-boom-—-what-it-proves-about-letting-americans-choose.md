@@ -4,7 +4,7 @@ title: March Madness Sparks Betting Boom — What It Proves About Letting
 date: 2026-03-17T21:51:00.000+01:00
 draft: false
 categories:
-  - Daily Wire
+  - The Daily Wire
 featured_image: images/uploads/bet.jpg
 ---
 ### **Regulated gambling is better than shady offshore sites gaining market dominance with zero accountability.**
