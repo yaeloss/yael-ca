@@ -34,6 +34,8 @@
 {{- $image := "" -}}
 {{- if .Params.image -}}
   {{- $image = .Params.image -}}
+{{- else if .Params.featured_image -}}
+  {{- $image = .Params.featured_image -}}
 {{- else if .Site.Params.ogimage -}}
   {{- $image = .Site.Params.ogimage -}}
 {{- end -}}
