@@ -16,7 +16,7 @@ copyright = "© Yaël Ossowski. All rights reserved."
   rssTitle = "Yaël Ossowski RSS Feed"
   rssDescription = "Latest writing and media appearances from Yaël Ossowski."
   rssFeedDescription = "summary"
-  ogimage = "images/avatar.jpg"
+  ogimage = "images/yo-wide.jpg"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
