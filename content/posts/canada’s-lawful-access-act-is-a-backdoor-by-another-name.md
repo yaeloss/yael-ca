@@ -3,7 +3,7 @@ title: Canada’s Lawful Access Act is a backdoor by another name
 date: 2026-03-22T09:44:00.000+01:00
 draft: false
 categories:
-  - The Hamilton Spectator
+  - Hamilton Spectator
 featured_image: images/uploads/canada.jpg
 ---
 The new police powers bill tabled by Public Safety Minister Anandasangaree is [slimmer and more targeted](https://nationalpost.com/news/politics/liberals-offer-more-search-and-intercept-powers-to-police-and-csis-with-new-bill) than the first go-around, but it’s every bit as fraught as the last time.
