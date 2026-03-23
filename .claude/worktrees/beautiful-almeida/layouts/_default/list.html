@@ -1,0 +1,17 @@
+{{- define "main" -}}
+<div class="wrapper list-page">
+    <header class="header">
+        <h1 class="header-title center">{{ .Title }}</h1>
+    </header>
+    <main class="page-content" aria-label="Content">
+        {{ range .Pages.GroupByDate "2006" }}
+        {{ if ne .Key "0001" }}
+        <h2 class="post-year">{{ .Key }}</h2>
+        {{ range .Pages }}
+        {{ partial "postCard" . }}
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </main>
+</div>
+{{- end -}}
