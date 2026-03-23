@@ -1,0 +1,62 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js"></script>
+<script>
+(function() {
+    var searchIndex = null;
+    var fuse = null;
+
+    async function loadSearchIndex() {
+        if (searchIndex) return;
+        var res = await fetch('/index.json');
+        searchIndex = await res.json();
+        fuse = new Fuse(searchIndex, {
+            keys: ['title', 'summary'],
+            threshold: 0.35,
+            includeScore: true
+        });
+    }
+
+    async function doSearch() {
+        var query = document.getElementById('search-input').value.trim();
+        var resultsEl = document.getElementById('search-results');
+        var recentEl = document.getElementById('recent-posts');
+
+        if (!query) {
+            resultsEl.innerHTML = '';
+            if (recentEl) recentEl.style.display = '';
+            return;
+        }
+
+        await loadSearchIndex();
+        var results = fuse.search(query);
+        if (recentEl) recentEl.style.display = 'none';
+
+        if (results.length === 0) {
+            resultsEl.innerHTML = '<p class="search-no-results">No results found for "<strong>' + query + '</strong>".</p>';
+        } else {
+            resultsEl.innerHTML =
+                '<h3 class="posts-item-note">Results for "' + query + '"</h3>' +
+                results.slice(0, 15).map(function(r) {
+                    return '<div class="search-result-item">' +
+                        '<a href="' + r.item.url + '">' + r.item.title + '</a>' +
+                        '<span class="search-result-date">' + r.item.date + '</span>' +
+                        '</div>';
+                }).join('');
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        var btn = document.getElementById('search-btn');
+        var input = document.getElementById('search-input');
+        if (btn) btn.addEventListener('click', doSearch);
+        if (input) {
+            input.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter') doSearch();
+            });
+        }
+        loadSearchIndex();
+    });
+})();
+</script>

@@ -1,0 +1,48 @@
+<!-- Fixed RSS template: replaces deprecated .Site.Author with .Site.Params.author -->
+{{- $pctx := . -}}
+{{- if .IsHome -}}{{ $pctx = .Site }}{{- end -}}
+{{- $pages := slice -}}
+{{- if or $.IsHome $.IsSection -}}
+{{- $pages = $pctx.RegularPages -}}
+{{- else -}}
+{{- $pages = $pctx.Pages -}}
+{{- end -}}
+{{- $limit := .Site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+{{- $rssFeedDescription := .Site.Params.rssFeedDescription | default "summary" -}}
+{{- $rssTitle := .Site.Params.rssTitle | default (cond (eq .Title .Site.Title) .Site.Title (printf "%s on %s" .Title .Site.Title)) -}}
+{{- $rssDescription := .Site.Params.rssDescription | default (printf "Recent content %son %s" (cond (ne .Title .Site.Title) (printf "in %s " .Title) "") .Site.Title) -}}
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ $rssTitle }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ $rssDescription }}</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>{{ site.Language.LanguageCode }}</language>{{ with .Site.Params.author.email }}
+    <managingEditor>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</managingEditor>{{end}}{{ with .Site.Params.author.email }}
+    <webMaster>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</webMaster>{{end}}{{ with .Site.Copyright }}
+    <copyright>{{.}}</copyright>{{end}}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end -}}
+    {{ range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{ with $.Site.Params.author.email }}<author>{{.}}{{ with $.Site.Params.author.name }} ({{.}}){{end}}</author>{{end}}
+      <guid>{{ .Permalink }}</guid>
+      {{ if eq $rssFeedDescription "summary"}}
+      <description>{{ .Summary | html }}</description>
+      {{ else if (eq $rssFeedDescription "full")}}
+      <description>{{ .Content | html }}</description>
+      {{ else }} {{ errorf "Error in RSS feed generation %q" .Path }}
+      {{ end }}
+    </item>
+    {{ end }}
+  </channel>
+</rss>
