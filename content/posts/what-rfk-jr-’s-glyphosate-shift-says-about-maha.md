@@ -4,6 +4,7 @@ date: 2026-03-24T18:28:00.000+01:00
 draft: false
 categories:
   - Inside Sources
+  - Boston Herald
 featured_image: images/uploads/maha-glyphosate.jpg
 ---
 Robert F. Kennedy Jr. spent decades in courtrooms [arguing](https://www.irishcentral.com/news/robert-f-kennedy-case-monsanto-roundup-weed-killer) that glyphosate causes cancer, earning millions by referring cases to trial — a [frequent](https://www.foxnews.com/politics/rfk-jr-defends-trump-move-protect-pesticide-he-tied-chronic-disease-epidemic) talking point during his 2024 presidential campaign. Last month, he did the unthinkable to his Make America Healthy Again followers by [endorsing](https://apnews.com/article/maha-glyphosate-rfk-kennedy-trump-pesticides-3d23d4771dba743a976543ca6cfa69d9) an executive order to ramp up glyphosate’s domestic production.
@@ -36,4 +37,4 @@ And there are [signs](https://www.thenewlede.org/2025/12/trump-administration-s
 
 MAHA supporters may feel betrayed by RFK Jr.’s decision to stick with Trump on glyphosate, but if the movement is serious about skepticism, it should turn some of their scrutiny toward those who helped manufacture this panic in the first place. Making America healthy again starts with courts that demand rigorous science. The rest is just recruitment marketing for lawsuits.
 
-*Published in [DC Journal](https://dcjournal.com/what-rfk-jr-s-glyphosate-shift-says-about-maha/) (archive [\#1](https://archive.ph/z7WR8), [\#2](https://web.archive.org/web/20260324172531/https://dcjournal.com/what-rfk-jr-s-glyphosate-shift-says-about-maha/))*
+*Published in [DC Journal](https://dcjournal.com/what-rfk-jr-s-glyphosate-shift-says-about-maha/) (archive [\#1](https://archive.ph/z7WR8), [\#2](https://web.archive.org/web/20260324172531/https://dcjournal.com/what-rfk-jr-s-glyphosate-shift-says-about-maha/)) and the [Boston Herald](https://www.bostonherald.com/2026/03/25/ossowski-rfk-jr-flip-flops-on-glyphosate/) (archive [\#1](https://archive.ph/5HFOu)).*
