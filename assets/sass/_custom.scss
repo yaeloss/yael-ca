@@ -197,6 +197,58 @@ html:not(.dark) body {
   margin-top: 1rem;
 }
 
+// ── Search results header & clear button ─────────────────────────
+.search-results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.search-count {
+  font-size: 0.85rem;
+  font-weight: normal;
+  opacity: 0.6;
+}
+
+.search-clear-btn {
+  background: none;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 0.3rem 0.75rem;
+  font-size: 0.85rem;
+  font-family: 'Lora', Georgia, serif;
+  cursor: pointer;
+  color: #6b7886;
+
+  &:hover {
+    color: #003fff;
+    border-color: #003fff;
+  }
+}
+
+// ── Back to search link on post pages ────────────────────────────
+#back-to-search {
+  margin-bottom: 1.5rem;
+}
+
+.back-to-search-link {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #6b7886;
+  text-decoration: none;
+  padding: 0.35rem 0.8rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+
+  &:hover {
+    color: #003fff;
+    border-color: #003fff;
+  }
+}
+
 // ── Categories / Terms list ──────────────────────────────────────
 .terms-list {
   list-style: none;
@@ -244,5 +296,17 @@ html:not(.dark) body {
 
   .search-result-item {
     border-bottom-color: #1b1d25;
+  }
+
+  .search-clear-btn {
+    color: #a0aab4;
+    border-color: #4a4d56;
+    &:hover { color: #77a8fd; border-color: #77a8fd; }
+  }
+
+  .back-to-search-link {
+    color: #a0aab4;
+    border-color: #4a4d56;
+    &:hover { color: #77a8fd; border-color: #77a8fd; }
   }
 }

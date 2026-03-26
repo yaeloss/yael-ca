@@ -1,6 +1,15 @@
 {{- $pages := where .Site.RegularPages "Type" "in" (default (slice "posts") site.Params.mainSections) -}}
 {{- $result := slice -}}
 {{- range $pages -}}
-  {{- $result = $result | append (dict "title" .Title "url" .RelPermalink "date" (.Date.Format "Jan 2, 2006") "summary" .Summary) -}}
+  {{- $content := substr .Plain 0 2000 -}}
+  {{- $result = $result | append (dict
+    "title" .Title
+    "url" .RelPermalink
+    "date" (.Date.Format "Jan 2, 2006")
+    "summary" .Summary
+    "tags" (default (slice) .Params.tags)
+    "categories" (default (slice) .Params.categories)
+    "content" $content
+  ) -}}
 {{- end -}}
 {{- $result | jsonify -}}
