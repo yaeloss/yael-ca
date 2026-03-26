@@ -6,16 +6,33 @@
 (function() {
     var searchIndex = null;
     var fuse = null;
+    var currentQuery = '';
 
     async function loadSearchIndex() {
         if (searchIndex) return;
         var res = await fetch('/index.json');
         searchIndex = await res.json();
         fuse = new Fuse(searchIndex, {
-            keys: ['title', 'summary'],
-            threshold: 0.35,
-            includeScore: true
+            keys: [
+                { name: 'title', weight: 3 },
+                { name: 'tags', weight: 2 },
+                { name: 'categories', weight: 2 },
+                { name: 'summary', weight: 1.5 },
+                { name: 'content', weight: 1 }
+            ],
+            threshold: 0.4,
+            includeScore: true,
+            ignoreLocation: true,
+            minMatchCharLength: 2
         });
+    }
+
+    function escapeHtml(str) {
+        return String(str)
+            .replace(/&/g, '&amp;')
+            .replace(/</g, '&lt;')
+            .replace(/>/g, '&gt;')
+            .replace(/"/g, '&quot;');
     }
 
     async function doSearch() {
@@ -26,37 +43,94 @@
         if (!query) {
             resultsEl.innerHTML = '';
             if (recentEl) recentEl.style.display = '';
+            currentQuery = '';
+            sessionStorage.removeItem('lastSearchQuery');
+            var url = new URL(window.location.href);
+            url.searchParams.delete('q');
+            history.replaceState({}, '', url.pathname);
             return;
         }
 
         await loadSearchIndex();
+        currentQuery = query;
         var results = fuse.search(query);
         if (recentEl) recentEl.style.display = 'none';
 
+        // Update URL so the browser back button lands on /?q=...
+        var url = new URL(window.location.href);
+        url.searchParams.set('q', query);
+        history.replaceState({}, '', url.toString());
+
+        var backBtn = '<button id="clear-search-btn" class="search-clear-btn">&#8592; Back to home</button>';
+
         if (results.length === 0) {
-            resultsEl.innerHTML = '<p class="search-no-results">No results found for "<strong>' + query + '</strong>".</p>';
+            resultsEl.innerHTML =
+                '<div class="search-results-header">' + backBtn + '</div>' +
+                '<p class="search-no-results">No results found for "<strong>' + escapeHtml(query) + '</strong>".</p>';
         } else {
             resultsEl.innerHTML =
-                '<h3 class="posts-item-note">Results for "' + query + '"</h3>' +
-                results.slice(0, 15).map(function(r) {
+                '<div class="search-results-header">' +
+                  '<h3 class="posts-item-note">Results for "' + escapeHtml(query) + '" <span class="search-count">(' + results.length + ')</span></h3>' +
+                  backBtn +
+                '</div>' +
+                results.slice(0, 30).map(function(r) {
                     return '<div class="search-result-item">' +
-                        '<a href="' + r.item.url + '">' + r.item.title + '</a>' +
+                        '<a href="' + r.item.url + '" class="search-result-link">' + escapeHtml(r.item.title) + '</a>' +
                         '<span class="search-result-date">' + r.item.date + '</span>' +
                         '</div>';
                 }).join('');
+        }
+
+        document.getElementById('clear-search-btn').addEventListener('click', function() {
+            document.getElementById('search-input').value = '';
+            doSearch();
+        });
+
+        // Store query when user clicks a result, so post pages can show back button
+        resultsEl.querySelectorAll('.search-result-link').forEach(function(link) {
+            link.addEventListener('click', function() {
+                sessionStorage.setItem('lastSearchQuery', query);
+            });
+        });
+    }
+
+    // Show "back to results" button on post pages
+    function initBackButton() {
+        var backEl = document.getElementById('back-to-search');
+        if (!backEl) return;
+        var q = sessionStorage.getItem('lastSearchQuery');
+        if (q) {
+            backEl.innerHTML = '<a href="/?q=' + encodeURIComponent(q) + '" class="back-to-search-link">&#8592; Back to results for &#8220;' + escapeHtml(q) + '&#8221;</a>';
+            backEl.style.display = '';
         }
     }
 
     document.addEventListener('DOMContentLoaded', function() {
         var btn = document.getElementById('search-btn');
         var input = document.getElementById('search-input');
+
         if (btn) btn.addEventListener('click', doSearch);
         if (input) {
             input.addEventListener('keydown', function(e) {
                 if (e.key === 'Enter') doSearch();
             });
+
+            // Auto-search if ?q= param present (e.g. returning from a post via back button)
+            var urlParams = new URLSearchParams(window.location.search);
+            var qParam = urlParams.get('q');
+            if (qParam) {
+                input.value = qParam;
+                sessionStorage.removeItem('lastSearchQuery');
+                doSearch();
+            } else {
+                // Arriving at home without a query: clear stored search
+                sessionStorage.removeItem('lastSearchQuery');
+            }
+
+            loadSearchIndex();
         }
-        loadSearchIndex();
+
+        initBackButton();
     });
 })();
 </script>

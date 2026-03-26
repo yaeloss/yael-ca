@@ -17,6 +17,11 @@
     <div class="wrapper">
         {{ partial "bio" . }}
 
+        <div class="home-search">
+            <input type="text" id="search-input" class="search-input" placeholder="Search articles..." aria-label="Search articles" />
+            <button id="search-btn" class="search-btn">Search</button>
+        </div>
+
         <div id="search-results" class="search-results" aria-live="polite"></div>
 
         <main id="recent-posts" aria-label="Content">
@@ -33,10 +38,6 @@
                 {{ end }}
             </p>
             {{ end }}
-            <div class="home-search">
-                <input type="text" id="search-input" class="search-input" placeholder="Search articles..." aria-label="Search articles" />
-                <button id="search-btn" class="search-btn">Search</button>
-            </div>
         </main>
     </div>
     {{- partial "footer.html" . -}}
