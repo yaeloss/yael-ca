@@ -19,7 +19,7 @@ My work has been featured and syndicated in USA Today, the Hill, Boston Herald, 
 
 ## Education
 
-- BA, Political Science and History — Concordia University (Montréal) and University of Vienna (Austria)
+- BA, Political Science and History — Concordia University (Montréal, Canada) and University of Vienna (Vienna, Austria)
 - MA, Philosophy, Politics, Economics — CEVRO University (Prague, Czech Republic)
 
 ## Personal
