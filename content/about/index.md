@@ -3,7 +3,7 @@ title: "About"
 draft: false
 ---
 
-![My photo](head.png)
+![My photo](yo-site-2026.jpg)
 
 ## <i>Bonjour</i>.
 
