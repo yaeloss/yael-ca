@@ -18,8 +18,6 @@ He was joined by several wealthy businessmen — such as Michael Bloomberg and f
 
 A Wall Street baron, Steyer’s words are not to be taken lightly. Deemed the ‘[liberal answer to the Koch Brothers](http://articles.latimes.com/2013/dec/21/nation/la-na-steyer-20131222), he’s one of the richest businessman in the United States and [played a key part](http://www.washingtonpost.com/blogs/the-fix/wp/2014/02/27/tom-steyers-long-road-to-becoming-the-environments-donor-in-chief/) in raising millions of dollars to elect Barack Obama in 2008 once Hillary Clinton lost the Democratic nomination.
 
-[![Source: YouTube](images/climatepanel-1024x553.png)](http://watchdog.wpengine.netdna-cdn.com/wp-content/blogs.dir/1/files/2014/06/climatepanel.png)
-
 He met with the president this week to discuss what the White House could do to tackle climate change, and how “insurance industry’s role in helping American communities prepare for extreme weather and other impacts of climate change,” according to [Reuters](http://www.reuters.com/article/2014/06/24/us-usa-climate-change-idUSKBN0EZ09U20140624).
 
 That points to a plan to allow insurance companies to begin assessing for “climate risk” in certain industries, a more market-focused approach to discourage industries from emitting large amounts of carbon dioxide.
