@@ -8,8 +8,6 @@ tags:
   - "watchdog-org"
 ---
 
-[![Photo: Flickr](images/steyer.jpg)](http://watchdog.org/wp-content/blogs.dir/1/files/2014/06/steyer.jpg)
-
 By Yaël Ossowski | [Watchdog.org](http://watchdog.org/156754/steyer-penalize-climate-risk/)
 
 Speaking in New York City [last week](http://www.youtube.com/watch?v=09ERxJe89Lg), Wall Street billionaire Tom Steyer laid clear his vision for penalizing people whose actions may contribute to climate change.
@@ -41,3 +39,5 @@ The American Federation of County, State, & Municipal Employees, one of the larg
 A representative from AFCSME refused to speak to Watchdog.org for this report.
 
 _This article was published on [Watchdog.org](http://watchdog.org/156754/steyer-penalize-climate-risk/)_
+
+_[Archive link](https://web.archive.org/web/20140719101135/http://watchdog.org/156754/steyer-penalize-climate-risk/)_
