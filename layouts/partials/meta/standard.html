@@ -2,12 +2,17 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">{{ .Title }} | {{ .Site.Title }}</title>
-<meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="twitter:title" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta itemprop="name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta name="application-name" content="{{ .Title }} | {{ .Site.Title }}" />
-<meta property="og:site_name" content="{{ .Site.Params.sitename }}" />
+{{- $title := printf "%s | %s" .Title .Site.Title -}}
+{{- if .IsHome -}}
+  {{- $title = .Site.Title -}}
+{{- end -}}
+
+<title itemprop="name">{{ $title }}</title>
+<meta property="og:title" content="{{ $title }}" />
+<meta name="twitter:title" content="{{ $title }}" />
+<meta itemprop="name" content="{{ $title }}" />
+<meta name="application-name" content="{{ $title }}" />
+<meta property="og:site_name" content="{{ .Site.Params.sitename | default .Site.Title }}" />
 
 {{/* Description: front matter first, then post summary, then site fallback */}}
 {{- $description := "" -}}
@@ -24,8 +29,13 @@
 <meta property="og:description" content="{{ $description }}" />
 <meta name="twitter:description" content="{{ $description }}" />
 
-<meta property="og:locale" content="{{ .Site.LanguageCode }}" />
+{{- $ogLocale := replace (.Site.LanguageCode | default "en-us") "-" "_" -}}
+<meta property="og:locale" content="{{ $ogLocale }}" />
 <meta name="language" content="{{ .Site.LanguageCode }}" />
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:url" content="{{ .Permalink }}" />
+{{ with .Site.Params.x }}<meta name="twitter:site" content="{{ . }}" />{{ end }}
+{{ with .Site.Params.x }}<meta name="twitter:creator" content="{{ . }}" />{{ end }}
 {{ range .AllTranslations }}
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
 {{ end }}
@@ -43,6 +53,13 @@
 {{- if $image -}}
 <meta itemprop="image" content="{{ $image | absURL }}" />
 <meta property="og:image" content="{{ $image | absURL }}" />
+<meta property="og:image:secure_url" content="{{ $image | absURL }}" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+{{ with .Site.Params.socialCardAlt }}
+<meta property="og:image:alt" content="{{ . }}" />
+<meta name="twitter:image:alt" content="{{ . }}" />
+{{ end }}
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ $image | absURL }}" />
 <meta name="twitter:image:src" content="{{ $image | absURL }}" />
