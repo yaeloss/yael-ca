@@ -10,13 +10,16 @@ copyright = "© Yaël Ossowski. All rights reserved."
   email = ""
 
 [params]
-  description = "la liberté avant tout"
+  description = "Consumer advocate, policy analyst, and writer covering technology, privacy, energy, legal reform, and lifestyle freedom."
   goToTop = true
   favicon = "favicon.ico"
   rssTitle = "Yaël Ossowski RSS Feed"
   rssDescription = "Latest writing and media appearances from Yaël Ossowski."
   rssFeedDescription = "summary"
-  ogimage = "images/yo-wide.jpg"
+  ogimage = "images/og-home.jpg"
+  sitename = "Yaël Ossowski"
+  socialCardAlt = "Editorial social card for Yaël Ossowski with a portrait photo and site branding."
+  x = "@YaelOss"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
