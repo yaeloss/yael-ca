@@ -32,4 +32,4 @@ Such a ruling wouldn’t be pro-business. It would be pro-consumer—the kind wh
 
 *Yaël Ossowski is deputy director at the Consumer Choice Center. Ross Marchand is the executive director of the Taxpayers Protection Alliance.*
 
-*Published in [Center Square](https://www.thecentersquare.com/opinion/article_c9847e8a-6721-4367-91d0-2b08c0d3ddc7.html) (archive [\#1](https://web.archive.org/web/20260514201133/https://www.thecentersquare.com/opinion/article_c9847e8a-6721-4367-91d0-2b08c0d3ddc7.html), [\#2](https://archive.ph/v9pws))*
+*Published in [Center Square](https://www.thecentersquare.com/opinion/article_c9847e8a-6721-4367-91d0-2b08c0d3ddc7.html) (archive [\#1](https://web.archive.org/web/20260514201133/https://www.thecentersquare.com/opinion/article_c9847e8a-6721-4367-91d0-2b08c0d3ddc7.html), [\#2](https://archive.ph/v9pws)), syndicated in [Yahoo News](https://www.yahoo.com/news/articles/op-ed-roundup-case-could-195500404.html).*
