@@ -82,3 +82,5 @@ In each case, tech and consumer advocates will have to be armed with the facts a
 If we want 100% uptime of the important services and websites we need to function, that means doubling down on what powers them: smart energy policies to build out capacity and data centers to host and process that data. This is our wake-up call.
 
 _Yaël Ossowski is deputy director at the Consumer Choice Center._
+
+Published on _[consumerchoicecenter.org](https://consumerchoicecenter.org/want-fewer-internet-outages-more-data-centers/)_.
