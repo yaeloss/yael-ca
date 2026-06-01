@@ -4,6 +4,7 @@ date: 2026-05-29T13:58:00.000+02:00
 draft: false
 categories:
   - DC Journal
+  - Boston Herald
 featured_image: images/uploads/climatesuperfundsbills-780x520.webp
 ---
 Vermont passed it first. New York [followed](https://reason.com/2024/12/30/new-yorks-climate-superfund-is-costly-arbitrary-and-unconstitutional/) with a [$75 billion price tag](https://www.washingtonexaminer.com/opinion/4478107/climate-superfund-laws-miss-mark-drive-up-costs/) attached. Now Minnesota wants in, and at least nine more state legislatures have similar bills in the queue.
@@ -38,4 +39,4 @@ The situation in Iran and the Strait of Hormuz may be driving energy price spike
 
 While affordability is on the tip of everyone’s tongue in politics, there is no better way to address it than for Congress and the Justice Department to stop the climate lawfare. With five months until the midterms, the administration has no time left to waste.
 
-*Published in [DC Journal](https://dcjournal.com/climate-superfunds-are-blowing-up-energy-bills/) (archive [\#1](https://archive.yael.live/archive/1780055224.432959/output.html), [\#2](https://web.archive.org/web/dcjournal.com/climate-superfunds-are-blowing-up-energy-bills))*
+*Published in [DC Journal](https://dcjournal.com/climate-superfunds-are-blowing-up-energy-bills/) (archive [\#1](https://archive.yael.live/archive/1780055224.432959/output.html), [\#2](https://web.archive.org/web/dcjournal.com/climate-superfunds-are-blowing-up-energy-bills)) and syndicated in the [Boston Herald](https://www.bostonherald.com/2026/05/30/ossowski-climate-superfunds-blowing-up-energy-bills/) (archive [\#1](https://web.archive.org/web/20260601121235/https://www.bostonherald.com/2026/05/30/ossowski-climate-superfunds-blowing-up-energy-bills/)).*
