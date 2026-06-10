@@ -4,7 +4,7 @@ date: 2026-06-10T16:38:00.000+02:00
 draft: false
 categories:
   - Consumer Choice Center
-featured_image: images/uploads/free-world.jpg
+featured_image: images/uploads/global-ai.jpg
 ---
 Pull up any global [leaderboard](https://kilo.ai/open-source-models) for open-source AI today and read the names: [Qwen](https://qwenlm.github.io/), [DeepSeek](https://www.deepseek.com/), [Kimi](https://www.moonshot.ai/), [GLM](https://z.ai/).
 
