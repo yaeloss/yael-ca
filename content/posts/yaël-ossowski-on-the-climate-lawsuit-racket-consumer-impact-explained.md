@@ -50,9 +50,7 @@ He also mentioned Greenpeace, which has faced legal challenges for its actions r
 
 Ossowski's insights shed light on the complexities of climate litigation and its implications for consumers. As legislative efforts like the Stop Climate Shakedowns Act gain traction, the ongoing dialogue about the balance between environmental accountability and consumer rights continues to evolve.
 
-For more information, the Consumer Choice Center's research and resources can be found at consumerchoicecenter.org.
-
-Interview Q&A
+For more information, the Consumer Choice Center's research and resources can be found at [consumerchoicecenter.org](https://consumerchoicecenter.org).
 
 ### Q&A: The Consumer Choice Center's Yaël Ossowski on 'The Climate Lawsuit Racket'
 
@@ -113,9 +111,4 @@ A: It's important for consumers to understand that these lawsuits have real cost
 * “We actually have research that tacks on every time that you have one of these lawsuits exactly what that bill will mean for you as a consumer when you fill up.”
 * “This is actually a good bill, and we don't often have that... it would take all of these state lawsuits and essentially render them null.”
 * “Every time you fuel up your vehicle or every time you pay your heating or air conditioning bill, you do pay a bit of a price for the cost of those lawsuits.”
-
-  \
-
-  \
-
-  <https://thepoweringamericapodcast.com/episodes/yael-ossowski-climate-litigation-consumer-rights>
+* <https://thepoweringamericapodcast.com/episodes/yael-ossowski-climate-litigation-consumer-rights>
