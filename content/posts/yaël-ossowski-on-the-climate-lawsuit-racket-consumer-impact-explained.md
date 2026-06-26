@@ -10,10 +10,6 @@ In the latest episode of the Powering America Podcast, host Bryan Hyde interview
 
 They discuss the implications of climate-related lawsuits against energy companies, particularly in blue states like California and New York, and the introduction of the Stop Climate Shakedowns Act of 2026, which aims to move state lawsuits to federal court and reduce frivolous litigation costs that ultimately impact consumers. The conversation highlights the role of various environmental groups and the economic effects of these legal battles on energy prices.
 
-
-
-
-
 ### The Consumer Choice Center's Yaël Ossowski on 'The Climate Lawsuit Racket'
 
 **Yaël Ossowski Discusses Climate Lawsuit Trends and Legislative Response**
@@ -120,12 +116,6 @@ A: It's important for consumers to understand that these lawsuits have real cost
 
   \
 
-
-
-
   \
-
-
-
 
   <https://thepoweringamericapodcast.com/episodes/yael-ossowski-climate-litigation-consumer-rights>
