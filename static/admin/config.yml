@@ -26,4 +26,4 @@ collections:
           name: "category"
           widget: "string"
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "richtext"}
