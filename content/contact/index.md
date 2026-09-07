@@ -8,6 +8,6 @@ signal | [yaeloss.47](https://signal.me/#eu/Q2rTUh2WrdTH3bkxdZfpOFeSF35VtfhLdmjB
 
 yael [at] yael [dot] ca
 
-**PGP:** `AD01 0C10 7463 A789 5E57  55B4 8CC5 745F C1BE 510B`
+**PGP:** [`AD01 0C10 7463 A789 5E57  55B4 8CC5 745F C1BE 510B`](/pgp.txt)
 
 yael [at] consumerchoicecenter [dot] org
