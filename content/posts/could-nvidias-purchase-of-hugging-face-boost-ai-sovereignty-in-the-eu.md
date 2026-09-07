@@ -4,6 +4,7 @@ date: 2026-09-03T21:10:00.000+02:00
 draft: false
 categories:
   - EU Tech Loop
+  - EuroNews
 featured_image: images/uploads/markus-spiske-8oykwqgbskq-unsplash.jpg
 ---
 ### The expansion of the open-source AI ecosystem could be a boon for the EU's efforts to promote tech sovereignty.
@@ -42,4 +43,4 @@ For people using AI every day, consumers and small companies alike, the most exc
 
 No matter the model used by a consumer or small company, that's a call to fork it, tune it, customise it, and upgrade it.
 
-*Published in [EU Tech Loop](https://eutechloop.com/could-nvidias-purchase-of-hugging-face-boost-ai-sovereignty-in-the-eu/) (archive [\#1](https://archive.yael.live/archive/1788462776.674279/eutechloop.com/could-nvidias-purchase-of-hugging-face-boost-ai-sovereignty-in-the-eu/index.html)).*
+*Published in [EU Tech Loop](https://eutechloop.com/could-nvidias-purchase-of-hugging-face-boost-ai-sovereignty-in-the-eu/) (archive [\#1](https://archive.yael.live/archive/1788462776.674279/eutechloop.com/could-nvidias-purchase-of-hugging-face-boost-ai-sovereignty-in-the-eu/index.html)), syndicated on [EuroNews](https://www.euronews.com/next/2026/09/07/could-nvidias-purchase-of-hugging-face-boost-the-eus-ai-sovereignty) (archive [\#1](https://archive.yael.live/archive/1788775821.311035/www.euronews.com/next/2026/09/07/could-nvidias-purchase-of-hugging-face-boost-the-eus-ai-sovereignty.html)).*
