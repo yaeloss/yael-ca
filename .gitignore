@@ -14,3 +14,4 @@ resources/
 .idea/
 *.swp
 *.swo
+__pycache__/

@@ -5,7 +5,7 @@ categories:
   - "the-daily-telegraph"
 tags: 
   - "australia"
-  - "class-action-2"
+  - "class-action"
   - "legal-reform"
   - "third-party-litigation-funding"
 coverImage: "hunter.png"

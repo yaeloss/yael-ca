@@ -5,7 +5,6 @@ tags:
   - "esfl"
   - "european-students-for-liberty"
   - "students-for-liberty"
-  - "students-for-liberty"
   - "switzerland"
 ---
 

@@ -13,7 +13,7 @@ tags:
 > 
 > 37 Europe has a set of primary interests, which to us have none, or a very remote relation. Hence she must be engaged in frequent controversies, the causes of which are essentially foreign to our concerns. **Hence, therefore, it must be unwise in us to implicate ourselves, by artificial ties, in the ordinary vicissitudes of her politics, or the ordinary combinations and collisions of her friendships or enmities.**
 > 
-> **![](images/George_Washington.jpg)** 
+> **![George Washington in Gilbert Stuart’s 1796 Lansdowne portrait](images/George_Washington.jpg)** 
 > 
 > 40 **It is our true policy to steer clear of permanent alliances with any portion of the foreign world**; so far, I mean, as we are now
 > 

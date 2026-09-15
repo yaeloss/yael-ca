@@ -7,7 +7,7 @@ categories:
 tags: 
   - "amazon"
   - "ftc"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 coverImage: "yael-ossowski-scripps.png"
 ---
 

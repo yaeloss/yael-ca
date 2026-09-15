@@ -13,7 +13,7 @@ tags:
   - "de-minimis"
   - "fannie-mae"
   - "policy-summit"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 coverImage: "btcpolicy-scaled.jpg"
 ---
 

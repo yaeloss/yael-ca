@@ -4,7 +4,6 @@ date: 2016-09-26
 tags: 
   - "sfl"
   - "students-for-liberty"
-  - "students-for-liberty"
   - "studentsforliberty"
 ---
 

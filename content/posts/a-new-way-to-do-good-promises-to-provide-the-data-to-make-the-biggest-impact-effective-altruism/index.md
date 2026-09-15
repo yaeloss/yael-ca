@@ -41,9 +41,11 @@ Rather than emotive appeals, however, effective altruists want to use science an
 
 <figure>
 
-![](images/Deworm-1-1024x699.png)
+![Schoolchildren receiving deworming medicine in Dien Bien, Vietnam, in 2012](images/deworming-dien-bien-2012.jpg)
 
 <figcaption>
+
+Schoolchildren receiving deworming medicine in Dien Bien, Vietnam (2012), photographed by USAID Vietnam.
 
 Deworming programs for children are among the most effective interventions we can finance. The nonprofit organization [GiveWell](https://www.givewell.org/) assesses charities not solely on their financials, but also on the impact their work is having on the ground. It calculated  
 that top charities such as “Deworm the World” can save a child’s life for less than €1,000 in funds.
@@ -72,8 +74,6 @@ For effective altruists, however, climate change presents a different question: 
 
 In 2012, the [Copenhagen Consensus Center](https://www.copenhagenconsensus.com/), the research think tank founded by Danish political scientist and author of The Skeptical Environmentalist [Bjørn Lomborg](https://www.lomborg.com/), gathered 5 top economists – including four Nobel Prize winners – and asked them a simple question: How could we spend $75 billion to make the world a better place? The eponymous book that followed focused on two main areas: nutrition and the fight against malaria.
 
-![](images/grafik1.jpg)
-
 To help the greatest number of people alive today, they concluded, the best solution would be to provide micronutrients, eliminate causes of diarrhea, and invest in immunization. Just $300 million in malaria research could prevent 300,000 child deaths yearly. It is an approach that sees large-scale transfers of wealth as ineffective in solving the climate crisis.
 
 But what about carbon footprints and individual actions that contribute to climate change?
@@ -87,8 +87,6 @@ For those who would like to directly impact climate change, he says, donating a 
 Of course, reducing climate change discourse to a few property deals in rainforests is sure to invite hostility and opposition to those who embrace Effective Altruism. Organizations such as [Greenpeace](https://metropole.at/diplomancy-still-green-clean/) and [Friends of the Earth](https://www.foei.org/) advocate for an immediate halt to the use of fossil fuels and want carbon taxes on industry as principal solutions to climate change.
 
 These groups oppose the extreme “rationality”of effective altruists because they believe more can be done, and that those who emit more carbon should accept the burden. If we all embraced Effective Altruism, would it still lead to the same paradigm shift these activists strive for?
-
-![](images/grafik2-1024x537.jpg)
 
 Extremely rational giving tends also to neglect areas that provide important social benefits. Without significant investment in the arts, for example, would our cultures be as dynamic, as reflective, and as capable of rewarding non-scientific creativity? Would we be as happy? These are legitimate criticisms.
 

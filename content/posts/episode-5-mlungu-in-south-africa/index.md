@@ -4,7 +4,6 @@ date: 2016-08-21
 tags: 
   - "south-africa"
   - "the-innocents-abroad"
-  - "the-innocents-abroad"
 ---
 
 ![image](images/tumblr_inline_oc9gguH2KW1qdn1ny_540.jpg)

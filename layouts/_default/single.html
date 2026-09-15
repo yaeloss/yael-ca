@@ -5,6 +5,9 @@
         <article>
             <header class="header">
                 <h1 class="header-title">{{ .Title }}</h1>
+                {{ if eq .Section "posts" }}
+                <p class="post-byline">By <a rel="author" href="{{ "about/" | relURL }}">{{ .Site.Params.author.name }}</a></p>
+                {{ end }}
                 {{ with .Date }}
                 {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}
                 <div class="post-meta">
@@ -20,14 +23,33 @@
 
 {{ with .Params.featured_image }}
 <div class="post-cover">
-    <img src="{{ . | relURL }}" alt="{{ $.Title }}" class="post-cover-img" />
+    {{ partial "responsive-image.html" (dict "page" $ "src" . "alt" $.Title "class" "post-cover-img" "eager" true) }}
 </div>
 {{ end }}
 
             {{ partial "toc.html" .}}
             <div class="page-content">
-                {{ .Content }}
+                {{- $content := .Content -}}
+                {{- range findRE `<iframe\b[^>]*>` $content -}}
+                  {{- if not (findRE `\bloading\s*=` .) -}}
+                    {{- $content = replace $content . (replace . "<iframe" `<iframe loading="lazy"`) -}}
+                  {{- end -}}
+                {{- end -}}
+                {{ $content | safeHTML }}
             </div>
+            {{ if eq .Section "posts" }}
+              {{ $hubs := where (.GetTerms "tags") "Params.topicHub" true }}
+              {{ with $hubs }}
+              <nav aria-label="Related topics">
+                <h2>Explore related topics</h2>
+                <ul>
+                  {{ range . }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                  {{ end }}
+                </ul>
+              </nav>
+              {{ end }}
+            {{ end }}
         </article>
         {{- partial "comments.html" . -}}
     </main>

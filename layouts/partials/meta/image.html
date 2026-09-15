@@ -1,0 +1,27 @@
+{{/* Resolve bundle images before site-relative uploads. Share with JSON-LD. */}}
+{{- $source := .Params.image | default .Params.featured_image | default .Params.coverImage -}}
+{{- $image := dict -}}
+{{- with $source -}}
+  {{- $resource := $.Resources.GetMatch . -}}
+  {{- if not $resource -}}
+    {{- $resource = $.Resources.GetMatch (printf "images/%s" $source) -}}
+  {{- end -}}
+  {{- with $resource -}}
+    {{- $image = dict "url" .Permalink "alt" $.Title -}}
+    {{- if eq .MediaType.MainType "image" -}}
+      {{- if ne .MediaType.SubType "svg" -}}
+        {{- $image = merge $image (dict "width" .Width "height" .Height) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- else -}}
+    {{- if or (hasPrefix $source "https://") (hasPrefix $source "http://") (fileExists (printf "static/%s" (strings.TrimPrefix "/" $source))) -}}
+      {{- $image = dict "url" ($source | absURL) "alt" $.Title -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if not $image -}}
+  {{- with .Site.Params.ogimage -}}
+    {{- $image = dict "url" (. | absURL) "alt" $.Site.Params.socialCardAlt -}}
+  {{- end -}}
+{{- end -}}
+{{- return $image -}}

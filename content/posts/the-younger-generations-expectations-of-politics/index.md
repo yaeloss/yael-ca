@@ -9,7 +9,7 @@ tags:
 
 _After reading [Alan Holmes’ piece](http://alholmes.wordpress.com/2012/01/26/sotu-and-the-younger-generation-my-thoughts/) on reaction to the State of the Union address, I found it fitting to respond to offer a clear contrast._
 
-![](images/Fact-check-Obamas-State-of-the-Union-2012-4GSS1QU-x-large.jpg)
+![President Barack Obama delivering the 2012 State of the Union address](images/Fact-check-Obamas-State-of-the-Union-2012-4GSS1QU-x-large.jpg)
 
 Any objective party would agree that the President’s soft words and patriotic rhetoric were a welcomed change to the Republican narrative that has dominated the political landscape in the last few months.
 
@@ -19,7 +19,7 @@ The national media’s focus has largely been on the fantasy horse-race that t
 
 It is, in essence, the _**Greatest Show On Earth**._ How else could candidates who have no national campaign, or even [enough signatures to be on multiple ballots across the country](http://www.foxnews.com/politics/2012/01/13/romneys-challengers-struggle-to-get-on-some-primary-ballots/), become the winners of a state primary or caucus? How else could previously defunct candidates, who have failed in the public eye so many times before and now can rely on the media’s attention for their sole support, become legitimate options for a major party’s nomination? 
 
-![](images/130278.jpg)
+
 
 Of late, our ears have been inundated with thoughts of triple marriages, twenty-year affairs, bloated government tax returns, semantic arguments on the definitions of _lobbying,_ long-form birth certificates, foreign bank accounts, gay-bashing, immigrant-bashing, nativism, and any other wasteful human energy that can fit between the fabricated laugh tracks of the morning shows and the redundant propaganda echo chambers which dominate primetime?
 
@@ -39,7 +39,7 @@ It was no accident that President Obama struck such a populist tone at his 2012 
 
 Despite the democratic uprisings during his term, the President has failed to grasp what ordinary youth are frustrated with.
 
-The spirits which spurred the Occupy moment of the past six months have not![](images/teapartywallstreet.jpg) been erected in vain to support President Obama’s policies of endless taxpayer monies to bankrupt industries or government slush-funds to loyal supporters, no matter how much the Democratic party would love to follow their Republican colleagues’ example of co-opting the Tea Party.
+The spirits which spurred the Occupy moment of the past six months have not been erected in vain to support President Obama’s policies of endless taxpayer monies to bankrupt industries or government slush-funds to loyal supporters, no matter how much the Democratic party would love to follow their Republican colleagues’ example of co-opting the Tea Party.
 
 Nor have the voting electorate’s latest preferences for Republicans meant that the last forty years of unfunded war and invasion of foreign nations is a preferable, or necessary, action of government.
 

@@ -5,7 +5,7 @@ categories:
   - "francais"
 tags: 
   - "election"
-  - "eric-duhaime-2"
+  - "eric-duhaime"
   - "parti-conservateur-du-quebec"
   - "quebec"
 coverImage: "ed.png"

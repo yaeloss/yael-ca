@@ -15,7 +15,7 @@ tags:
   - "online-censorship"
   - "online-privacy"
   - "privacy"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 coverImage: "GHXmke3XEAAJy_D.jpg"
 ---
 

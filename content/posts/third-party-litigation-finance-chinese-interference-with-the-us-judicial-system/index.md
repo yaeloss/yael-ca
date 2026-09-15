@@ -4,7 +4,7 @@ date: 2024-09-04
 categories: 
   - "videos"
 tags: 
-  - "third-party-litigation-finance-2"
+  - "third-party-litigation-finance"
 coverImage: "litigation.jpg"
 ---
 

@@ -5,7 +5,6 @@ tags:
   - "barcelona"
   - "catalonia"
   - "devolution-review"
-  - "devolution-review"
 ---
 
 ![](images/tumblr_inline_p2tf2duGJh1qdn1ny_540.png)

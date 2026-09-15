@@ -14,15 +14,7 @@
 <meta name="application-name" content="{{ $title }}" />
 <meta property="og:site_name" content="{{ .Site.Params.sitename | default .Site.Title }}" />
 
-{{/* Description: front matter first, then post summary, then site fallback */}}
-{{- $description := "" -}}
-{{- if .Params.description -}}
-  {{- $description = trim .Params.description "\n" -}}
-{{- else if and .IsPage .Summary -}}
-  {{- $description = .Summary | plainify | truncate 200 -}}
-{{- else if .Site.Params.description -}}
-  {{- $description = trim .Site.Params.description "\n" -}}
-{{- end -}}
+{{- $description := partial "meta/description.html" . -}}
 
 <meta name="description" content="{{ $description }}">
 <meta itemprop="description" content="{{ $description }}" />
@@ -32,7 +24,7 @@
 {{- $ogLocale := replace (.Site.LanguageCode | default "en-us") "-" "_" -}}
 <meta property="og:locale" content="{{ $ogLocale }}" />
 <meta name="language" content="{{ .Site.LanguageCode }}" />
-<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+<meta property="og:type" content="{{ if and .IsPage (eq .Section "posts") }}article{{ else }}website{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 {{ with .Site.Params.x }}<meta name="twitter:site" content="{{ . }}" />{{ end }}
 {{ with .Site.Params.x }}<meta name="twitter:creator" content="{{ . }}" />{{ end }}
@@ -40,29 +32,15 @@
   <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" title="{{ .Language.LanguageName }}" />
 {{ end }}
 
-{{/* Image: front matter first, then site ogimage */}}
-{{- $image := "" -}}
-{{- if .Params.image -}}
-  {{- $image = .Params.image -}}
-{{- else if .Params.featured_image -}}
-  {{- $image = .Params.featured_image -}}
-{{- else if .Site.Params.ogimage -}}
-  {{- $image = .Site.Params.ogimage -}}
-{{- end -}}
-
-{{- if $image -}}
-<meta itemprop="image" content="{{ $image | absURL }}" />
-<meta property="og:image" content="{{ $image | absURL }}" />
-<meta property="og:image:secure_url" content="{{ $image | absURL }}" />
-<meta property="og:image:width" content="1200" />
-<meta property="og:image:height" content="630" />
-{{ with .Site.Params.socialCardAlt }}
-<meta property="og:image:alt" content="{{ . }}" />
-<meta name="twitter:image:alt" content="{{ . }}" />
-{{ end }}
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:image" content="{{ $image | absURL }}" />
-<meta name="twitter:image:src" content="{{ $image | absURL }}" />
-{{- else -}}
-<meta name="twitter:card" content="summary" />
-{{- end -}}
+{{- with partial "meta/image.html" . }}
+<meta itemprop="image" content="{{ .url }}">
+<meta property="og:image" content="{{ .url }}">
+{{ with .width }}<meta property="og:image:width" content="{{ . }}">{{ end }}
+{{ with .height }}<meta property="og:image:height" content="{{ . }}">{{ end }}
+<meta property="og:image:alt" content="{{ .alt }}">
+<meta name="twitter:image:alt" content="{{ .alt }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ .url }}">
+{{- else }}
+<meta name="twitter:card" content="summary">
+{{- end }}

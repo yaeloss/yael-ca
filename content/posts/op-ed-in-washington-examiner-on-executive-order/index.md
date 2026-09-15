@@ -6,7 +6,6 @@ tags:
   - "nsa"
   - "ronald-reagan"
   - "washington-examiner"
-  - "washington-examiner"
 ---
 
 ![](images/tumblr_inline_n0a9aoaUm11qdn1ny.jpg)

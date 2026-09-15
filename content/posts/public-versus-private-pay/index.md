@@ -44,7 +44,9 @@ _SOURCE: BUREAU OF LABOR STATISTICS, 2009_
 
 As we can see, the total of the private sector is, on average, paid substantially less than the average government worker. There is no argument about this. That isn’t even to mention the pensions and guaranteed benefits which warp the numbers even more.
 
-![](images/fedpay.jpg)  
+![Bar chart of 2009 average annual wages for public and private worker groups and CPAs; exact figures are listed above.](images/fedpay.jpg)
+
+*Chart recreated from the historical figures quoted above; annual wages in U.S. dollars (2009).*
 
 I write this because there is an attempt at re-education in the progressive media.
 

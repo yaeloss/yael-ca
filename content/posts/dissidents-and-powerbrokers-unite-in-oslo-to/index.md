@@ -8,7 +8,6 @@ tags:
   - "off"
   - "oslo-freedom-forum"
   - "students-for-liberty"
-  - "students-for-liberty"
 ---
 
  _This blog post was sent in by_ _[Yaël Ossowski](http://studentsforliberty.org/profile/yael-ossowski/), Executive Board Member of **European Students For Liberty**_

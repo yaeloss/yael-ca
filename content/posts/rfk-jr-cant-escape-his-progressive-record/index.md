@@ -9,7 +9,7 @@ tags:
   - "health-and-human-services"
   - "legal-reform"
   - "rfk"
-  - "rfk-jr-2"
+  - "rfk-jr"
   - "tort-lawyer"
 coverImage: "RFK-1.png"
 ---

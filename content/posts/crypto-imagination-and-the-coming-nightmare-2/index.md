@@ -4,7 +4,6 @@ date: 2018-01-17
 tags: 
   - "black-mirror"
   - "devolution-review"
-  - "devolution-review"
   - "greek-mythology"
   - "technology"
 ---

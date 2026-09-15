@@ -1,0 +1,6 @@
+{{- $description := .Description | plainify | strings.TrimSpace -}}
+{{- if and (not $description) .IsPage -}}
+  {{- $description = .Summary | plainify | strings.TrimSpace | truncate 200 -}}
+{{- end -}}
+{{/* Imported WordPress summaries can contain double-escaped HTML entities. */}}
+{{- return ($description | default .Site.Params.description | htmlUnescape | htmlUnescape | printf "%s") -}}

@@ -21,11 +21,28 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.166.0'
           extended: true
+
+      - name: Cache processed images
+        uses: actions/cache@v4
+        with:
+          path: resources/_gen/images
+          key: hugo-images-${{ runner.os }}-0.166.0-${{ hashFiles('layouts/partials/responsive-image.html', 'content/**', 'static/images/uploads/**') }}
+          restore-keys: |
+            hugo-images-${{ runner.os }}-0.166.0-
 
       - name: Build
         run: hugo --minify
+
+      - name: Generate legacy WordPress redirects
+        run: python3 scripts/generate_redirects.py public
+
+      - name: Verify SEO output
+        run: python3 scripts/check_seo.py public
+
+      - name: Verify performance output
+        run: python3 scripts/check_performance.py public
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

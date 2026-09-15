@@ -6,7 +6,7 @@
     "title" .Title
     "url" .RelPermalink
     "date" (.Date.Format "Jan 2, 2006")
-    "summary" .Summary
+    "summary" (partial "meta/description.html" .)
     "tags" (default (slice) .Params.tags)
     "categories" (default (slice) .Params.categories)
     "content" $content

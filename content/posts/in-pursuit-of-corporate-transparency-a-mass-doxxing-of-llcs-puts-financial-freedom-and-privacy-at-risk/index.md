@@ -10,7 +10,7 @@ tags:
   - "llcs"
   - "privacy"
   - "the-rage"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 ---
 
 ![](images/CTA.png)

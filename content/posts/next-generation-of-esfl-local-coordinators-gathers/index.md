@@ -5,7 +5,6 @@ tags:
   - "european-students-for-liberty"
   - "gummersbach"
   - "students-for-liberty"
-  - "students-for-liberty"
 ---
 
 ![](images/esfllcretreat.jpg "esfllcretreat")

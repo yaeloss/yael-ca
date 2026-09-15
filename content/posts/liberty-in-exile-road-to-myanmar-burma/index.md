@@ -4,7 +4,6 @@ date: 2013-08-26
 tags: 
   - "burma"
   - "liberty-in-exile"
-  - "liberty-in-exile"
   - "myanmar"
 ---
 

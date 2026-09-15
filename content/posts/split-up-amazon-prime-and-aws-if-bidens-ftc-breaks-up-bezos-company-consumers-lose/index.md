@@ -20,7 +20,7 @@ tags:
   - "prime"
   - "tech"
   - "usa-today"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 coverImage: "am.png"
 ---
 

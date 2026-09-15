@@ -3,7 +3,6 @@ title: "Liberty In Exile: Victims of the Economy"
 date: 2013-02-15
 tags: 
   - "liberty-in-exile"
-  - "liberty-in-exile"
 ---
 
 ### [![victimsoftheeconomy](images/victimsoftheeconomy.png)](http://libertyinexile.jellycast.com/files/audio/libertyinexile14feb2013.mp3)

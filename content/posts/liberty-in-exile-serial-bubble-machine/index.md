@@ -3,7 +3,6 @@ title: "Liberty In Exile: Serial Bubble Machine"
 date: 2013-04-10
 tags: 
   - "liberty-in-exile"
-  - "liberty-in-exile"
 ---
 
 [![image](images/tumblr_inline_ml23jfeqiN1qz4rgp.png)](http://libertyinexile.jellycast.com/files/audio/libertyinexile10april2013.mp3)

@@ -12,7 +12,7 @@ tags:
   - "watchdog-org"
 ---
 
-![](images/RubioRomney-570x3201.jpg1.jpg)
+![Marco Rubio in his official 2011 U.S. Senate portrait](images/RubioRomney-570x3201.jpg1.jpg)
 
 By Yaël Ossowski | Florida Watchdog
 

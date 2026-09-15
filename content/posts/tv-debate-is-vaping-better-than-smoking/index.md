@@ -10,7 +10,7 @@ tags:
   - "nicotine"
   - "trt-world"
   - "vaping"
-  - "yael-ossowski-2"
+  - "yael-ossowski"
 coverImage: "trt-vaping-vs-smoking.png"
 ---
 

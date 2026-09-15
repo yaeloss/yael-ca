@@ -6,7 +6,6 @@ tags:
   - "podcast"
   - "prague"
   - "the-innocents-abroad"
-  - "the-innocents-abroad"
 ---
 
 ![image](images/tumblr_inline_oeyby9HGFv1upiylh_540.jpg)

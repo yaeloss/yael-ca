@@ -5,7 +5,7 @@ categories:
   - "legal-newsline"
 tags: 
   - "ai"
-  - "class-action-2"
+  - "class-action"
   - "justice"
   - "lawsuits"
   - "legal-reform"

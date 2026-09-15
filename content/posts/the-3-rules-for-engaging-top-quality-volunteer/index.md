@@ -4,7 +4,6 @@ date: 2017-09-20
 tags: 
   - "activists"
   - "linkedin"
-  - "linkedin"
   - "ngos"
   - "volunteers"
 ---

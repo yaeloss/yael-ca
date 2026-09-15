@@ -3,7 +3,6 @@ title: "Liberté en exil : Vivre chez eux dans leur pays !"
 date: 2013-01-19
 tags: 
   - "francais"
-  - "francais"
   - "liberte-en-exil"
   - "liberty-in-exile"
   - "quebec"

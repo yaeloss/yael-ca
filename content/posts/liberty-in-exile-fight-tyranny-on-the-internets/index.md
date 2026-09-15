@@ -3,7 +3,6 @@ title: "Liberty In Exile: Fight Tyranny on the Internets"
 date: 2013-03-01
 tags: 
   - "liberty-in-exile"
-  - "liberty-in-exile"
 ---
 
 ### [![fighttyranny](images/fighttyranny.png)](http://libertyinexile.jellycast.com/files/audio/libertyinexile01march2013.mp3)

@@ -4,6 +4,21 @@ title = "Yaël Ossowski"
 theme = "hugo-blog-awesome"
 googleAnalytics = "G-44MPTZ5W07"
 copyright = "© Yaël Ossowski. All rights reserved."
+enableRobotsTXT = true
+
+# Process CMS uploads without changing their existing public URLs.
+[[module.mounts]]
+  source = "assets"
+  target = "assets"
+[[module.mounts]]
+  source = "static/images/uploads"
+  target = "assets/images/uploads"
+
+[[cascade]]
+  [cascade.target]
+    kind = "{taxonomy,term}"
+  [cascade.sitemap]
+    disable = true
 
 [author]
   name = "Yaël Ossowski"
@@ -22,7 +37,13 @@ copyright = "© Yaël Ossowski. All rights reserved."
   x = "@YaelOss"
 
 [outputs]
-  home = ["HTML", "RSS", "JSON"]
+  home = ["HTML", "RSS", "JSON", "Redirects"]
+
+[outputFormats.Redirects]
+  mediaType = "application/json"
+  baseName = "legacy-redirects"
+  isPlainText = true
+  notAlternative = true
 
 [services]
   [services.rss]
@@ -30,8 +51,15 @@ copyright = "© Yaël Ossowski. All rights reserved."
 
 [params.author]
   name = "Yaël Ossowski"
-  intro = "Bonjour, I'm Yaël."
+  intro = "Bonjour, I'm Yaël Ossowski."
   avatar = "images/avatar.jpg"
+  sameAs = [
+    "https://linkedin.com/in/yaeloss",
+    "https://x.com/YaelOss",
+    "https://yaeloss.substack.com/",
+    "https://consumerchoicecenter.org/team/yael-ossowski/",
+    "https://www.btcpolicy.org/authors/yael-ossowski"
+  ]
 
 [markup.goldmark.renderer]
   unsafe = true

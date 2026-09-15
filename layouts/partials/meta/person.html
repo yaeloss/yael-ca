@@ -1,0 +1,1 @@
+{{- return (dict "@type" "Person" "@id" ("#person" | absURL) "name" .Site.Params.author.name "url" ("about/" | absURL) "sameAs" .Site.Params.author.sameAs) -}}

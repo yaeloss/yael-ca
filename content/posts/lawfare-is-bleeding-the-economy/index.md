@@ -6,7 +6,7 @@ categories:
   - "the-west-australian"
 tags: 
   - "australia"
-  - "class-action-2"
+  - "class-action"
   - "lawfare"
   - "lawsuits"
   - "legal-reform"

@@ -1,0 +1,2 @@
+{{- $eager := and (eq .Ordinal 0) (not .Page.Params.featured_image) -}}
+{{- partial "responsive-image.html" (dict "page" .Page "src" .Destination "alt" .PlainText "title" .Title "eager" $eager) -}}

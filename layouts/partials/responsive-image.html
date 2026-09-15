@@ -1,0 +1,37 @@
+{{- $src := .src -}}
+{{- $image := .page.Resources.GetMatch $src -}}
+{{- if not $image -}}
+  {{- $image = resources.Get (strings.TrimPrefix "/" $src) -}}
+{{- end -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- $srcset := slice -}}
+{{- with $image -}}
+  {{- $src = .RelPermalink -}}
+  {{- if in (slice "jpeg" "png" "webp") .MediaType.SubType -}}
+    {{- $dimensions := try (dict "width" .Width "height" .Height) -}}
+    {{- if $dimensions.Err -}}
+      {{- warnf "Keeping original invalid image %s: %s" .Name $dimensions.Err -}}
+    {{- else if and (gt $dimensions.Value.width 0) (gt $dimensions.Value.height 0) -}}
+    {{- $largest := .Resize (printf "%dx webp q85" (int (math.Min 1400 .Width))) -}}
+    {{- $src = $largest.RelPermalink -}}
+    {{- $width = $largest.Width -}}
+    {{- $height = $largest.Height -}}
+    {{- range slice 480 800 -}}
+      {{- if lt . $width -}}
+        {{- $variant := $image.Resize (printf "%dx webp q85" .) -}}
+        {{- $srcset = $srcset | append (printf "%s %dw" $variant.RelPermalink $variant.Width) -}}
+      {{- end -}}
+    {{- end -}}
+    {{- $srcset = $srcset | append (printf "%s %dw" $src $width) -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ .alt }}"
+  {{- with .title }} title="{{ . }}"{{ end }}
+  {{- with .class }} class="{{ . }}"{{ end }}
+  {{- if $width }} width="{{ $width }}" height="{{ $height }}"{{ end }}
+  {{- with $srcset }} srcset="{{ delimit . ", " }}" sizes="(max-width: 840px) calc(100vw - 40px), 800px"{{ end }}
+  {{- if .eager }} loading="eager" fetchpriority="high"{{ else }} loading="lazy"{{ end }}
+  decoding="async">
+{{- /* Preserve Markdown's inline-image whitespace behavior. */ -}}

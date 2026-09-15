@@ -9,7 +9,7 @@ tags:
   - "usa"
 ---
 
-![](images/federalist.jpg) Imagine the local sheriff or police chief issuing an arrest warrant for the President of the United States.
+![Title page of the first volume of The Federalist, published in 1788](images/federalist.jpg) Imagine the local sheriff or police chief issuing an arrest warrant for the President of the United States.
 
 Imagine that the majority of the citizens in that local jurisdiction agree with the arrest warrant, and in fact take to the streets to support its issuance.
 
@@ -41,7 +41,7 @@ While some would view this as a measure of natural evolution of confederated pow
 
 In the newly-constructed federal system of the European Union, laws and regulations are no longer solely decided by an elected legislature in the capitals of democratic nations.
 
-![](images/400px-The_new_European_Federation.png) Instead, close to 70% of all laws enacted in Europe are handed down by the EU bureaucracy, known as the EU Commission and headquartered in Brussels. The Commission is heavily staffed, adequately funded, and freed from the burdens of election cycles.
+ Instead, close to 70% of all laws enacted in Europe are handed down by the EU bureaucracy, known as the EU Commission and headquartered in Brussels. The Commission is heavily staffed, adequately funded, and freed from the burdens of election cycles.
 
 This means that individual populations have  no democratic control of the majority of the laws passed in their country. Even the makeup of the national budgets will be decided by the EU in the next few years.
 
@@ -59,7 +59,7 @@ In the current American model, the most distinguishing factor is the growing cen
 
 And nothing is more evident than in the amount of money the government claims from its citizens.
 
-In the last budget signed by President Obama, the federal government planned to spend $3.7 trillion. ![](images/US_Federal_Outlay_and_GDP_linear_graph_t670.png)
+In the last budget signed by President Obama, the federal government planned to spend $3.7 trillion. 
 
 Considering the USA’s $14.58 trillion [gross domestic product](http://www.google.com/publicdata/explore?ds=d5bncppjof8f9_&met_y=ny_gdp_mktp_cd&idim=country:USA&dl=en&hl=en&q=us+gdp), this means that the Federal government in Washington, D.C. consumes 25% of all money earned.
 
@@ -85,7 +85,7 @@ Now, in the age of federalizing local police departments, nationalizing the simp
 
 **CANADA**
 
-The lessons of the American Civil War, which ultimately took close to half a million lives, were especially powerful in the formation of a new country in British North America.![](images/cama.gif)
+The lessons of the American Civil War, which ultimately took close to half a million lives, were especially powerful in the formation of a new country in British North America.
 
 Confederated in 1867, the nation of Canada sprung from the formation of [two powerful political jurisdictions](http://canadaonline.about.com/od/confederation/a/foc.htm) managed by the British Empire, later known as Québec and Ontario. By creating its own constitution, the newly-minted nation hoped to reclaim full sovereignty from the British crown, allowing it to eventually grow large enough to become the second-largest landmass nation in the world.
 

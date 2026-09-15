@@ -1,0 +1,11 @@
+{{- $posts := slice -}}
+{{- range where .Site.RegularPages "Section" "posts" -}}
+  {{- $posts = $posts | append (dict "url" .RelPermalink "date" (.Date.Format "2006/01/02")) -}}
+{{- end -}}
+{{- $terms := slice -}}
+{{- range $taxonomy, $entries := .Site.Taxonomies -}}
+  {{- range $entries -}}
+    {{- $terms = $terms | append (dict "url" .Page.RelPermalink "taxonomy" $taxonomy "count" .Count) -}}
+  {{- end -}}
+{{- end -}}
+{{- dict "baseURL" .Site.BaseURL "posts" $posts "terms" $terms "tagMerges" hugo.Data.tag_merges | jsonify -}}

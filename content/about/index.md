@@ -1,11 +1,13 @@
 ---
-title: "About"
+title: "About Yaël Ossowski"
+description: "Yaël Ossowski is a consumer advocate, policy analyst, and writer; deputy director at the Consumer Choice Center and a fellow at the Bitcoin Policy Institute."
+image: "yo-site-2026.jpg"
 draft: false
 ---
 
-![My photo](yo-site-2026.jpg)
+![Yaël Ossowski](yo-site-2026.jpg)
 
-## <i>Bonjour</i>.
+## Bonjour, I’m Yaël.
 
 My name is Yaël Ossowski. I'm a consumer advocate, policy analyst, and writer who covers technology, privacy, energy, legal reform, and lifestyle freedom.
 
@@ -15,7 +17,7 @@ I'm also a Fellow at the [**Bitcoin Policy Institute**](https://www.btcpolicy.or
 
 Previously, I was an investigative reporter at **Watchdog.org**, serving as Florida Bureau Chief and chief Spanish translator. From 2013 to 2020, I worked as a grassroots organizer, programs director, and fundraiser for the pro-liberty youth organization **Students For Liberty** across multiple continents.
 
-My work has been featured and syndicated in USA Today, the Hill, Boston Herald, Chicago Tribune, Miami Herald, Reason Magazine, and [hundreds of other outlets](https://www.yael.ca/categories). I've been a member of the Society of Professional Journalists since 2011.
+My work has been featured and syndicated in USA Today, the Hill, Boston Herald, Chicago Tribune, Miami Herald, Reason Magazine, and [hundreds of other outlets](/categories/). I've been a member of the Society of Professional Journalists since 2011.
 
 ## Education
 
@@ -26,6 +28,20 @@ My work has been featured and syndicated in USA Today, the Hill, Boston Herald, 
 
 Born in Québec, raised in the American south, and spend most of my days split between Central Europe and Washington, D.C.
 
-<center><b><i>Mon pays ce n'est pas un pays, c'est l'hiver.</center></b></i>
+*Mon pays ce n'est pas un pays, c'est l'hiver.*
 
-<center><b><i>Heimat ist kein Ort, Heimat ist ein Gefühl.</center></b></i>
+*Heimat ist kein Ort, Heimat ist ein Gefühl.*
+
+## Writing and policy work
+
+On this site, I collect my reporting, commentary, interviews, and speeches. Browse my writing on [Bitcoin and financial privacy](/tags/bitcoin/), [technology and innovation](/tags/tech/), and [legal reform](/tags/legal-reform/), or explore the [complete archive](/posts/).
+
+## Find me elsewhere
+
+- [LinkedIn](https://linkedin.com/in/yaeloss)
+- [X (Twitter)](https://x.com/YaelOss)
+- [Substack](https://yaeloss.substack.com/)
+- [Consumer Choice Center biography](https://consumerchoicecenter.org/team/yael-ossowski/)
+- [Bitcoin Policy Institute biography](https://www.btcpolicy.org/authors/yael-ossowski)
+
+For media interviews, speaking invitations, or other inquiries, [contact me](/contact/).
