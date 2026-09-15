@@ -9,6 +9,8 @@ tags:
   - "consumer-choice-radio"
   - "steve-forbes"
 coverImage: "FORBES-YT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/7u1PPGqQXB8

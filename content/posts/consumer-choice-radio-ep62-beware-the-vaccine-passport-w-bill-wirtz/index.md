@@ -10,6 +10,8 @@ tags:
   - "consumer-choice-radio"
   - "vaccine-passports"
 coverImage: "VACCINE-PASSPORT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/ThQCADEYvkA

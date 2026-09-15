@@ -9,6 +9,8 @@ tags:
   - "interviews"
   - "targeted-advertising"
 coverImage: "WONDERS.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/dKZcOQ2Yu-g

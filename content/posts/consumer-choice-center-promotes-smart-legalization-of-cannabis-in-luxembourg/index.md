@@ -9,6 +9,8 @@ tags:
   - "interviews"
   - "luxembourg"
 coverImage: "LUX-RTL-CAN.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=QW5JXje4jAM&feature=youtu.be

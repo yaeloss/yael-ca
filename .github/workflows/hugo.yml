@@ -44,6 +44,9 @@ jobs:
       - name: Verify performance output
         run: python3 scripts/check_performance.py public
 
+      - name: Verify media organization
+        run: python3 scripts/check_media_archives.py public
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

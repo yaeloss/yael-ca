@@ -25,6 +25,8 @@ tags:
   - "travis-sherry"
   - "wilmington"
 coverImage: "Yael-Ossowski-2.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/cq4scakUmAc

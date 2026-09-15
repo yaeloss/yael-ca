@@ -11,6 +11,8 @@ tags:
   - "economy-class"
   - "straw-police"
 coverImage: "straw-police-WP.png"
+formats:
+  - "video"
 ---
 
 ![](images/straw-police-WP-1024x502.png)

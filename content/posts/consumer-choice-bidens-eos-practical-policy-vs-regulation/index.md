@@ -10,6 +10,8 @@ tags:
   - "heard-tell-podcast"
   - "interviews"
 coverImage: "heard-tell-yael.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/gQUn4vshepA

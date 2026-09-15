@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "radio"
 coverImage: "radiojoe.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/NDgY43m8RNA

@@ -1,13 +1,15 @@
 ---
 title: "TFTC #642: Building Bitcoin Policy with Yaël Ossowski"
 date: 2025-07-21
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin-policy"
   - "policy"
 coverImage: "SOLOChDFfO4-HD.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/SOLOChDFfO4?si=K5dlHtNXnXJY8PY2

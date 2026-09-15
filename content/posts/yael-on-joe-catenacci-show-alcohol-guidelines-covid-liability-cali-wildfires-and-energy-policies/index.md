@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "SEPT112020MJC.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/uZZjSyvKO6s

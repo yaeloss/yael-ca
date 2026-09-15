@@ -10,6 +10,8 @@ tags:
   - "modernized-alcohol-policy"
   - "radio"
 coverImage: "bigtalker.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=EAZjhZUtaRY&feature=youtu.be

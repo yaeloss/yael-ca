@@ -12,6 +12,8 @@ tags:
   - "republic-of-georgia"
   - "russia"
 coverImage: "GEORGIA-YT.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/ccc/praising-georgia-ya-l-on-big-talker-fm/embed" width="100%" height="180" frameborder="0" title="Praising Georgia | Yaël on Big Talker FM"></iframe>

@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "video"
 coverImage: "joe.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=NwfAI01Y1vg&feature=youtu.be

@@ -1,9 +1,11 @@
 ---
 title: "Trump-Vance can nudge the EU away from its global ESG push | Yaël on Tony Kinnett Cast FM"
 date: 2025-02-25
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 coverImage: "34242.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/0c4zLVKwzSw?si=\_Ze7YGIW3bmTs7PD

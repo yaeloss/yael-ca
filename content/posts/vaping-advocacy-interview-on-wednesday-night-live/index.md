@@ -1,11 +1,13 @@
 ---
 title: "Vaping advocacy interview on Wednesday Night Live"
 date: 2022-12-08
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "vaping"
 coverImage: "maxresdefault_live.jpg"
+formats:
+  - "video"
 ---
 
 This week I was invited on the podcast and live YouTube show "Wednesday Night Live," talking all things vaping, harm reduction, innovation, and advocacy.

@@ -10,6 +10,8 @@ tags:
   - "flemming-rose"
   - "free-expression"
 coverImage: "FLEMMINGCCR.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/OS5hdtWqL-g

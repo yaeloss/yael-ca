@@ -10,6 +10,8 @@ tags:
   - "talk-radio"
   - "yael-ossowski"
 coverImage: "BIGTALKER.png"
+formats:
+  - "video"
 ---
 
 https://soundcloud.com/yaeloss/yael-ossowski-hosts-wfbt-big-talker-1067fm-morning-show-11022021

@@ -12,6 +12,8 @@ tags:
   - "terrorism"
   - "vienna"
 coverImage: "BBC4.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/4VE9\_tAukpM

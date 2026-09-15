@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "banner2.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=JDRJ9ljwDcA#action=share

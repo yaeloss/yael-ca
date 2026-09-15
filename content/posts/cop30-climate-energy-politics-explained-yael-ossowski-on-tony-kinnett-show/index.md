@@ -8,6 +8,8 @@ tags:
   - "cop"
   - "energy"
 coverImage: "tony-kinnett.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=IZxPA8ptPRs

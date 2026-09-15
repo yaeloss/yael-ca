@@ -2,7 +2,7 @@
 // Known old URLs receive static redirect pages during the production build.
 (async function () {
     const path = window.location.pathname;
-    const archive = path.match(/^\/(tag|category|tags)\/([^/]+)(?:\/page\/[1-9]\d*)?\/?$/);
+    const archive = path.match(/^\/(tag|category|tags|categories)\/([^/]+)(?:\/page\/[1-9]\d*)?\/?$/);
     const post = path.match(/^\/(?:\d{4}\/\d{2}\/\d{2}\/)?([^/]+)\/?$/);
     const page = /^\/page\/[1-9]\d*\/?$/.test(path);
     if (!archive && !post && !page) return;
@@ -12,12 +12,13 @@
         const manifest = await response.json();
         let target;
         if (archive) {
-            const taxonomy = archive[1] === 'category' ? 'categories' : 'tags';
+            const taxonomy = ['category', 'categories'].includes(archive[1]) ? 'categories' : 'tags';
             let slug = decodeURIComponent(archive[2]);
             if (taxonomy === 'tags' && Object.hasOwn(manifest.tagMerges, slug)) {
                 slug = manifest.tagMerges[slug];
             }
-            const candidate = `/${taxonomy}/${slug}/`;
+            const old = `/${taxonomy}/${slug}/`;
+            const candidate = Object.hasOwn(manifest.archiveMoves || {}, old) ? manifest.archiveMoves[old] : old;
             target = manifest.terms.find(term => decodeURI(term.url) === candidate)?.url;
         } else if (page) {
             target = '/posts/';

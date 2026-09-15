@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "YT-mandated-selfies.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=HcaW6zX9qGk

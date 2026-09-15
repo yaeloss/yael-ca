@@ -3,9 +3,11 @@ title: "The Pentagon Just Fired Anthropic: The AI Surveillance War Begins"
 date: 2026-03-05T11:55:00.000+01:00
 draft: false
 categories:
-  - Video
-  - Bitcoin
+  - "Bitcoin"
+  - "interviews"
 featured_image: images/uploads/ai-survelliance.jpg
+formats:
+  - "video"
 ---
 In this episode of **[The Bitcoin Layer](https://thebitcoinlayer.com/)**, Nik welcomes back Yaël Ossowski, Fellow at the Bitcoin Policy Institute, to break down the escalating standoff between Anthropic and the Pentagon. 
 

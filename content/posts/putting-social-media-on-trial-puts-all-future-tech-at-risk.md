@@ -4,8 +4,10 @@ date: 2026-02-19T10:00:00.000+01:00
 slug: putting-social-media-on-trial-puts-all-future-tech-at-risk
 draft: false
 categories:
-  - Videos
+  - "interviews"
 featured_image: images/uploads/short-sighted.jpg
+formats:
+  - "video"
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ECkEv5DBHn8?si=SagadbZwiYUSU0gY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

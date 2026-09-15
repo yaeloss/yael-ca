@@ -3,9 +3,11 @@ title: "Long Overdue: Trump Rescheduling Cannabis to Schedule III"
 date: 2026-04-23T13:48:00.000+02:00
 draft: false
 categories:
-  - The Hill
-  - Video
+  - "The Hill"
+  - "interviews"
 featured_image: images/uploads/img_2492.jpg
+formats:
+  - "video"
 ---
 It was a big day for cannabis reform in the United States.
 

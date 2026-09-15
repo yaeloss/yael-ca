@@ -15,6 +15,8 @@ tags:
   - "radio"
   - "yael-ossowski"
 coverImage: "yaeloo-1.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/W2WI7BAlU5s

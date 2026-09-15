@@ -1,15 +1,17 @@
 ---
 title: "Peer-to-Peer Bitcoin & No-KYC Practices (BTC Prague 2023 Panel)"
 date: 2023-07-25
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "talks-panels"
 tags: 
   - "bitcoin"
   - "btc-prague"
   - "kyc"
   - "prague"
 coverImage: "yael-ossowski.png"
+formats:
+  - "video"
 ---
 
 ![](images/yael-ossowski-1024x681.png)

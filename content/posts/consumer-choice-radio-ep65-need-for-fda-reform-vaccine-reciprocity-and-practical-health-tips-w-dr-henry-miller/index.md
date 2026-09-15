@@ -13,6 +13,8 @@ tags:
   - "lockdowns"
   - "suez"
 coverImage: "MILLER-YT.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep65-need-for-fda-reform-vaccine-reciprocity-and-p/embed" width="100%" height="180" frameborder="0" title="EP65: Need for FDA Reform, Vaccine Reciprocity, and Practical Health Tips (w/ Dr. Henry Miller)"></iframe>

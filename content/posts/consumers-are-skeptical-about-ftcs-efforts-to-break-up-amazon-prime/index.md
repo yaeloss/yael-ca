@@ -1,14 +1,15 @@
 ---
 title: "Consumers are skeptical about FTC's efforts to break up Amazon Prime"
 date: 2023-09-27
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "amazon"
   - "ftc"
   - "yael-ossowski"
 coverImage: "yael-ossowski-scripps.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=9gAMPEsz9cM

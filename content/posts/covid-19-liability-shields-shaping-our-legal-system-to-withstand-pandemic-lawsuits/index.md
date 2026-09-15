@@ -1,13 +1,15 @@
 ---
 title: "COVID-19 Liability Shields: Shaping our Legal System to Withstand Pandemic Lawsuits"
 date: 2020-09-10
-categories: 
-  - "interviews"
+categories:
+  - "talks-panels"
 tags: 
   - "covid"
   - "interviews"
   - "liability-shield"
 coverImage: "Screen-Shot-2020-09-10-at-15.47.03.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=MQlcR8j7n6g&feature=youtu.be

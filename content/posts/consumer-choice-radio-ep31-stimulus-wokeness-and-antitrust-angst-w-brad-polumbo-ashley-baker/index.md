@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "ashley.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep31-stimulus-wokeness-and-antitrust-angst-w-brad/embed" width="100%" height="180" frameborder="0" title="EP31: Stimulus Wokeness and Antitrust Angst ( w/ Brad Polumbo, Ashley Baker)"></iframe>

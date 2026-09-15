@@ -13,6 +13,8 @@ tags:
   - "uap-disclosure"
   - "ufo"
 coverImage: "UAP-disclosure.png"
+formats:
+  - "video"
 ---
 
 ![](images/UAP-disclosure.png)

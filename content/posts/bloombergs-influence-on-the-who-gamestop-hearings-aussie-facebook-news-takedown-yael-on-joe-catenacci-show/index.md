@@ -13,6 +13,8 @@ tags:
   - "who"
   - "world-health-organization"
 coverImage: "aussie-YT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/bupPb8x9lHk

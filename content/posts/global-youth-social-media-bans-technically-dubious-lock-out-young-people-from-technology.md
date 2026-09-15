@@ -4,8 +4,10 @@ title: "Global Youth Social Media Bans: Technically dubious, lock out young
 date: 2026-06-19T15:59:00.000+02:00
 draft: false
 categories:
-  - Video
+  - "interviews"
 featured_image: images/uploads/social-media.jpg
+formats:
+  - "video"
 ---
 Consumer Choice Center Deputy Director Yaël Ossowski is interviewed on The News Forum on the global push for age-gates on social media and youth social media bans. 
 

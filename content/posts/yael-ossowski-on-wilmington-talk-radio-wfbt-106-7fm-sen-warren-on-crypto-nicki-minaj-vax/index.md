@@ -21,6 +21,8 @@ tags:
   - "sec"
   - "wilmington"
 coverImage: "JOE.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=MomVHh3ebi8

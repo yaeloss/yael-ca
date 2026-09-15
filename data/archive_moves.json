@@ -1,0 +1,6 @@
+{
+  "/categories/video/": "/formats/video/",
+  "/categories/videos/": "/formats/video/",
+  "/categories/radio-interviews/": "/categories/interviews/",
+  "/categories/testimony/": "/categories/talks-panels/"
+}

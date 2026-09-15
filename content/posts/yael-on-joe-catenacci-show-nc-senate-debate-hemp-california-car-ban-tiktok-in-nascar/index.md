@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "SEPT19mjc-1.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/wCu-l-q0YwY

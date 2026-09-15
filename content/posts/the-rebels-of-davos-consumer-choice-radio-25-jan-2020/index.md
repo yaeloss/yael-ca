@@ -13,6 +13,8 @@ tags:
   - "wef"
   - "world-economic-forum"
 coverImage: "rebels-of-davos-1.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=ymNnqQCNXbo

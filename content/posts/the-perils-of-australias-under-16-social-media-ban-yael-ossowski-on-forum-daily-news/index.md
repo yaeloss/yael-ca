@@ -1,12 +1,14 @@
 ---
 title: "The perils of Australia's under-16 social media ban | Yaël Ossowski on Forum Daily News"
 date: 2025-12-11
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "australia"
   - "social-media-ban"
 coverImage: "yo-newsforum.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=JR4odiEoSGY

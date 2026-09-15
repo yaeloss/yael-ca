@@ -1,11 +1,11 @@
 ---
 title: "Third-Party Litigation Finance: Chinese Interference with the US Judicial System?"
 date: 2024-09-04
-categories: 
-  - "videos"
 tags: 
   - "third-party-litigation-finance"
 coverImage: "litigation.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=7raUhgppNPo

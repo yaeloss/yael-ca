@@ -13,6 +13,8 @@ tags:
   - "renaissance"
   - "wilmington"
 coverImage: "image.jpg"
+formats:
+  - "video"
 ---
 
 Today I was interviewed on Nick Craig's morning radio program in Wilmington, North Carolina.

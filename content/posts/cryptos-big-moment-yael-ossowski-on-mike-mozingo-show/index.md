@@ -1,16 +1,17 @@
 ---
 title: "Crypto's Big Moment | Yael Ossowski on Mike Mozingo Show"
 date: 2025-07-18
-categories: 
+categories:
   - "bitcoin"
-  - "radio-interviews"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin"
   - "crypto"
   - "genius"
   - "stablecoins"
 coverImage: "FNNnMtpXbo0-SD.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/FNNnMtpXbo0?si=ktfqWprHchoiifPj

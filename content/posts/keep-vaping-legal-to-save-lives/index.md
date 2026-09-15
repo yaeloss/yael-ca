@@ -6,6 +6,8 @@ categories:
   - "interviews"
 tags: 
   - "interviews"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=PqSrTS2GjEg

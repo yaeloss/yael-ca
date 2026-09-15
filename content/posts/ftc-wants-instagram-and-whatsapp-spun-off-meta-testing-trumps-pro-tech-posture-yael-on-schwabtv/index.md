@@ -10,6 +10,8 @@ tags:
   - "meta"
   - "schwab"
 coverImage: "Screenshot-2025-04-15-at-23.52.40.png"
+formats:
+  - "video"
 ---
 
 [](https://www.youtube.com/@ConsumerChoiceCenter)

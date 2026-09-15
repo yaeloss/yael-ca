@@ -1,12 +1,14 @@
 ---
 title: "BIG Shifts in U.S. Bitcoin Policy: IRS Rollbacks and Strategic Reserve Plan"
 date: 2025-04-02
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin-policies"
 coverImage: "btc.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/YO5luQOGZZ4?si=6OX6rySFKNDJ0n94

@@ -1,14 +1,16 @@
 ---
 title: "Can the U.S. Lead in AI Without Killing Innovation?"
 date: 2025-07-17
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "ai"
   - "artificial-intelligence"
   - "innovation"
 coverImage: "Screenshot-2025-07-21-at-14.12.02.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/xPq2W7tLCnY?si=\_EfhFCE7\_uUqP7JG

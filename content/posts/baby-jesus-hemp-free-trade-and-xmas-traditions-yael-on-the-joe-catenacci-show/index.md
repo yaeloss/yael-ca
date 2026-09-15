@@ -10,6 +10,8 @@ tags:
   - "free-trade"
   - "interviews"
 coverImage: "XMAS.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/SEBgKOt2IOM

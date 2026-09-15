@@ -22,6 +22,8 @@ tags:
   - "world-health-organization"
   - "yael-ossowski"
 coverImage: "lab-YIMBY.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=sCw7rQz6OJk

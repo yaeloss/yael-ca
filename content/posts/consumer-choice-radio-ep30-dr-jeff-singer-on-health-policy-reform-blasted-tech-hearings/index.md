@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "drsinger.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep30-dr-jeff-singer-on-health-policy-reform-blaste/embed" width="100%" height="180" frameborder="0" title="EP30: Dr. Jeff Singer on Health Policy Reform; Blasted Tech Hearings"></iframe>

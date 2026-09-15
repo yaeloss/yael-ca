@@ -1,10 +1,9 @@
 ---
 title: "TV Debate: Is vaping better than smoking?"
 date: 2024-05-14
-categories: 
+categories:
   - "interviews"
   - "trt-world"
-  - "videos"
 tags: 
   - "debate"
   - "nicotine"
@@ -12,6 +11,8 @@ tags:
   - "vaping"
   - "yael-ossowski"
 coverImage: "trt-vaping-vs-smoking.png"
+formats:
+  - "video"
 ---
 
 Is vaping safer than smoking? Obviously YES.

@@ -13,6 +13,8 @@ tags:
   - "consumer-choice-radio"
   - "rachel-chiu"
 coverImage: "ep-63.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/BrqY-15HLW0

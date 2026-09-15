@@ -5,9 +5,10 @@ date: 2026-02-26T15:00:00.000+01:00
 slug: canadian-politicians-cannot-blame-an-ai-chatbot-for-a-horrific-shooting-its-own-institutions-missed
 draft: false
 categories:
-  - Interviews
-  - Videos
+  - "Interviews"
 featured_image: images/uploads/canada-ai.jpg
+formats:
+  - "video"
 ---
 When a tragedy occurs, the instinct to assign blame is understandable. Fingers are pointed, rhetoric gets heated, and calls for accountability mount.
 

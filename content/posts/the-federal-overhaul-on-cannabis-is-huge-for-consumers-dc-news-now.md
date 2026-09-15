@@ -3,9 +3,11 @@ title: The federal overhaul on cannabis is HUGE for consumers | DC News Now
 date: 2026-05-08T10:51:00.000+02:00
 draft: false
 categories:
-  - The Hill
-  - Videos
+  - "The Hill"
+  - "interviews"
 featured_image: images/uploads/cannabis-dc-news-now.jpg
+formats:
+  - "video"
 ---
 Yaël Ossowski joined DC News Now, part of Nexstar Media, to break down the consumer case for reform on marijuana scheduling.
 

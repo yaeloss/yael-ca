@@ -12,6 +12,8 @@ tags:
   - "joe-catenacci"
   - "radio"
 coverImage: "Copy-of-yaeloo-1.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=E7fjgV9vfOc

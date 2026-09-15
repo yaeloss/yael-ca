@@ -14,6 +14,8 @@ tags:
   - "west-virginia"
   - "whataboutism"
 coverImage: "ANDREW-DONALDSON.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/CiziVFn5eDs

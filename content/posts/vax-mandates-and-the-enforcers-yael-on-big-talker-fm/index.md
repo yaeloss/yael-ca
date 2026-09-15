@@ -11,6 +11,8 @@ tags:
   - "vax-mandate"
   - "yael-ossowski"
 coverImage: "VAX.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/DliX6rUWONc

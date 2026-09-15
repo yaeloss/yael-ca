@@ -17,6 +17,8 @@ tags:
   - "telegram"
   - "who"
 coverImage: "BigTalkerYT.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=cFFwFUhwRTw&feature=youtu.be

@@ -1,14 +1,16 @@
 ---
 title: "Is your password healthy? | Yaël Ossowski on DC News Now's Tech Talk"
 date: 2025-07-11
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "encryption"
   - "passkeys"
   - "passwords"
   - "security"
 coverImage: "password-scaled.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/M0iMct30mPg

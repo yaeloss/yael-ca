@@ -6,6 +6,11 @@ googleAnalytics = "G-44MPTZ5W07"
 copyright = "© Yaël Ossowski. All rights reserved."
 enableRobotsTXT = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  format = "formats"
+
 # Process CMS uploads without changing their existing public URLs.
 [[module.mounts]]
   source = "assets"

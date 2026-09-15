@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "PANDEMIC-TV.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/ccc/i-cant-take-pandemic-tv-anymore-ya-l-on-the-joe-ca/embed" width="100%" height="180" frameborder="0" title="I Can't Take Pandemic TV Anymore | Yaël on the Joe Catenacci Show Big Talker 106.7FM"></iframe>

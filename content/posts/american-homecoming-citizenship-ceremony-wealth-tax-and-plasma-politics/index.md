@@ -13,6 +13,8 @@ tags:
   - "wealth-tax"
   - "yael-ossowski"
 coverImage: "Copy-of-Copy-of-yaeloo.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=wbl1CZ7KMAk&feature=youtu.be

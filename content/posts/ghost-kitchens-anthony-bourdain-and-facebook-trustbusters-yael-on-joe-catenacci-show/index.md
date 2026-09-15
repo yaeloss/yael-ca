@@ -9,6 +9,8 @@ tags:
   - "ghost-kitchens"
   - "interviews"
 coverImage: "ghost-YT2.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/YEhbvtVqaY0

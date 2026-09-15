@@ -1,9 +1,9 @@
 ---
 title: "Bitcoin’s Fight for Freedom: U.S. Regulations, Court Battles, and the Future of Financial Privacy"
 date: 2024-12-13
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin"
   - "financial-privacy"
@@ -11,6 +11,8 @@ tags:
   - "samourai-wallet"
   - "saving-privacy-act"
 coverImage: "layer.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/DK-LQ1il7Qs?si=yLKomd1Yb87d6iAW

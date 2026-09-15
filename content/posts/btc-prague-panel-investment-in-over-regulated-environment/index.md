@@ -1,14 +1,16 @@
 ---
 title: "BTC Prague Panel: Investment in Over Regulated Environment"
 date: 2024-06-21
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "talks-panels"
 tags: 
   - "bitcoiners"
   - "btc-prague"
   - "investment"
 coverImage: "hqdefault.jpg"
+formats:
+  - "video"
 ---
 
 Our excellent panel from BTC Prague 2024 is now live on Youtube.

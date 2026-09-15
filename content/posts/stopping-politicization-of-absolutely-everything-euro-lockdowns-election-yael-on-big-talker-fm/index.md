@@ -12,6 +12,8 @@ tags:
   - "lockdown"
   - "the-politicization-of-absolutely-everything"
 coverImage: "pa.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=m4mIako-aK0&feature=youtu.be

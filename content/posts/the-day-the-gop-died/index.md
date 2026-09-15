@@ -1,8 +1,6 @@
 ---
 title: "The Day the GOP Died"
 date: 2016-07-20
-categories: 
-  - "videos"
 tags: 
   - "blog"
   - "conservative"
@@ -12,6 +10,8 @@ tags:
   - "republican"
   - "speeches"
   - "trump"
+  - "video"
+formats:
   - "video"
 ---
 

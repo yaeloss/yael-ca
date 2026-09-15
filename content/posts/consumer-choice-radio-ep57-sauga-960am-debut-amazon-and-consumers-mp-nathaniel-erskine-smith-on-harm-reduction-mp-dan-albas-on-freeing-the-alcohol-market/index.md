@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "ALBAS.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/kF93luxm3\_U

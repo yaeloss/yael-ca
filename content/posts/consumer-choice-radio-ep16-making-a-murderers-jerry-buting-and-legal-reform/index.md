@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "JERRYBUTINGYT.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=6CYkwlerdrk

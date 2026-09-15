@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "WP-potions.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/GreUq4SdmQo

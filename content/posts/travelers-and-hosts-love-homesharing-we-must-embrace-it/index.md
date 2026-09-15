@@ -11,6 +11,8 @@ tags:
   - "radio"
   - "sharing-economy"
 coverImage: "Travelers-and-hosts-love-homesharing_-We-must-embrace-it.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/ilPRrPTFDvs

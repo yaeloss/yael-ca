@@ -3,8 +3,10 @@ title: How Tariffs Will Increase the Prices of your Tech Products
 date: 2026-08-28T20:50:00.000+02:00
 draft: false
 categories:
-  - Videos
+  - "interviews"
 featured_image: images/uploads/yo-tech-threat.png
+formats:
+  - "video"
 ---
 Tariffs are once again on the table between Canada and the United States. 
 

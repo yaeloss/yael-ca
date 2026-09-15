@@ -10,6 +10,8 @@ tags:
   - "tech"
   - "tiktok"
 coverImage: "yaeloo-1.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/dSN6J4lrLm8

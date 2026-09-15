@@ -12,6 +12,8 @@ tags:
   - "news-tax"
   - "open-digital"
 coverImage: "newsforum.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/BpuSki5SNIk

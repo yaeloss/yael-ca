@@ -12,6 +12,8 @@ tags:
   - "joe-catenacci"
   - "yael-ossowski"
 coverImage: "oct2mjc.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=8NRo8s96Jpg

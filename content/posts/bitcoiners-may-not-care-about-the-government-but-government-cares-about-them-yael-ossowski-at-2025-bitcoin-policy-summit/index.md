@@ -1,9 +1,9 @@
 ---
 title: "Bitcoiners may not care about the government, but government cares about them | Yaël Ossowski at 2025 Bitcoin Policy Summit"
 date: 2025-06-26
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "talks-panels"
 tags: 
   - "aml"
   - "bank-secrecy-act"
@@ -15,6 +15,8 @@ tags:
   - "policy-summit"
   - "yael-ossowski"
 coverImage: "btcpolicy-scaled.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/NNP7TdN\_\_Go

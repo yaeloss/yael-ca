@@ -9,6 +9,8 @@ tags:
   - "legal-reform"
   - "video"
 coverImage: "legalreform-5.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/JhklitIZ-Y4

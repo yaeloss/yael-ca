@@ -13,6 +13,8 @@ tags:
   - "radio"
   - "wfbt"
 coverImage: "YT-yyojc12june.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=ITit8jE4xi8&feature=youtu.be

@@ -14,6 +14,8 @@ tags:
   - "independence"
   - "inflation"
 coverImage: "INFLATION.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/c1vWnViNH2o

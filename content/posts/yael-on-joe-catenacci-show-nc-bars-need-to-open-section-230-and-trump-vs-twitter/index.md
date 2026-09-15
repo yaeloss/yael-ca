@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "yobig.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/imi0hssIC5k

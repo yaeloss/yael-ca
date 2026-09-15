@@ -4,8 +4,10 @@ title: Future AI shaped by liberal democracies or dominated by China? A global
 date: 2026-06-10T13:08:00.000+02:00
 draft: false
 categories:
-  - Videos
+  - "interviews"
 featured_image: images/uploads/ai-pause.jpg
+formats:
+  - "video"
 ---
 Do we want the future of AI shaped by liberal democracies or dominated by China?
 

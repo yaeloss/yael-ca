@@ -9,6 +9,8 @@ tags:
   - "consumer-choice-radio"
   - "state-of-the-union"
 coverImage: "wp-Ultimate-Entertainment-Week.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/M2KmICA6wLU

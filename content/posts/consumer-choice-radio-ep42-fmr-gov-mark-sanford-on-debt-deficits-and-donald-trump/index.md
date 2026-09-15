@@ -16,6 +16,8 @@ tags:
   - "mark-sanford"
   - "south-carolina"
 coverImage: "CCR-Episode-42.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/Mct3-4fM9XA

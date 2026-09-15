@@ -10,6 +10,8 @@ tags:
   - "smart-cannabis-policy"
   - "video"
 coverImage: "youtube-smart-cannabis-policy.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/AKtV9\_XTvhM

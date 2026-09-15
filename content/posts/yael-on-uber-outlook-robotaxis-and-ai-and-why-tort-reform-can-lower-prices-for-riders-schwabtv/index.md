@@ -1,13 +1,15 @@
 ---
 title: "Yaël on Uber outlook, robotaxis and AI, and why tort reform can lower prices for riders | SchwabTV"
 date: 2025-02-05
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "ridesharing"
   - "tort-reform"
   - "uber"
 coverImage: "schwab.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/URFfPMMHFME?si=\_3TGck\_Hcv\_eevrC

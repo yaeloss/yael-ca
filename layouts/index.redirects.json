@@ -8,4 +8,4 @@
     {{- $terms = $terms | append (dict "url" .Page.RelPermalink "taxonomy" $taxonomy "count" .Count) -}}
   {{- end -}}
 {{- end -}}
-{{- dict "baseURL" .Site.BaseURL "posts" $posts "terms" $terms "tagMerges" hugo.Data.tag_merges | jsonify -}}
+{{- dict "baseURL" .Site.BaseURL "posts" $posts "terms" $terms "tagMerges" hugo.Data.tag_merges "archiveMoves" hugo.Data.archive_moves | jsonify -}}

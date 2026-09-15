@@ -9,6 +9,8 @@ tags:
   - "consumer-choice-radio"
   - "techlash"
 coverImage: "TECHLASH-yt.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep67-techlash-w-jennifer-huddleston/embed" width="100%" height="180" frameborder="0" title="EP67: TECHLASH (w/ Jennifer Huddleston)"></iframe>

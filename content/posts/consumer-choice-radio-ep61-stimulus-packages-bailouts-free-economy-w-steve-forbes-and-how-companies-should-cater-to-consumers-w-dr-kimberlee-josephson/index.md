@@ -12,6 +12,8 @@ tags:
   - "stimulus"
   - "woke"
 coverImage: "FORBESYT.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep61-stimulus-packages-bailouts-free-economy-w-ste/embed" width="100%" height="180" frameborder="0" title="EP61: Stimulus Packages, Bailouts, Free Economy (w/ Steve Forbes), and How Companies Should Cater to Consumers (w/ Dr. Kimberlee Josephson)"></iframe>

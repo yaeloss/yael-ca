@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "radio"
 coverImage: "Copy-of-yaeloo.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=hyxJPRRS3eo&feature=youtu.be

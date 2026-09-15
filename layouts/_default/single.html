@@ -12,10 +12,13 @@
                 {{ $ISO_time := dateFormat "2006-01-02T15:04:05-07:00" . }}
                 <div class="post-meta">
                     <time datetime="{{ $ISO_time }}" itemprop="datePublished">{{ . | time.Format "02. January, 2006" }}</time>
-                    {{ with $.Params.categories }}
+                    {{ with $.GetTerms "categories" }}
                     {{ range . }}
-                    <span class="post-meta-sep">&nbsp;&middot;&nbsp;</span><a class="post-category" href="{{ "/categories/" | relURL }}{{ . | urlize }}/">{{ . }}</a>
+                    <span class="post-meta-sep">&nbsp;&middot;&nbsp;</span><a class="post-category" href="{{ .RelPermalink }}">{{ .Title }}</a>
                     {{ end }}
+                    {{ end }}
+                    {{ range $.GetTerms "formats" }}
+                    <span class="post-meta-sep">&nbsp;&middot;&nbsp;</span><span class="post-format">Format: <a href="{{ .RelPermalink }}">{{ .Title }}</a></span>
                     {{ end }}
                 </div>
                 {{ end }}

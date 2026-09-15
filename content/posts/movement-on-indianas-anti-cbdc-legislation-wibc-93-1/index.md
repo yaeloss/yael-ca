@@ -9,6 +9,8 @@ tags:
   - "consumer-choice-center"
   - "indiana"
 coverImage: "cbdc.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=GGCF0S2pAuk

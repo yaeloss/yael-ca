@@ -4,6 +4,9 @@
         <h1 class="header-title center">{{ .Title }}</h1>
     </header>
     <main class="page-content" aria-label="Content">
+        {{ if in (slice "posts" "categories" "formats") .Section }}
+        {{ partial "media-nav.html" . }}
+        {{ end }}
         {{ .Content }}
         {{ range .Pages.GroupByDate "2006" }}
         {{ if ne .Key "0001" }}

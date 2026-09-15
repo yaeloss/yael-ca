@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "yaeloo.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/qlL8QxORe2g

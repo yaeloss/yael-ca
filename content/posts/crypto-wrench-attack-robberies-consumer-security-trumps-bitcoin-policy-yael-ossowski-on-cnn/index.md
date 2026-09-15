@@ -1,9 +1,9 @@
 ---
 title: "Crypto 'Wrench Attack\" Robberies, Consumer Security &amp; Trump's Bitcoin policy | Yael Ossowski on CNN"
 date: 2025-05-29
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "5-wrench-attack"
   - "bank-secrecy-act"
@@ -13,6 +13,8 @@ tags:
   - "laws"
   - "securicy"
 coverImage: "Screenshot-2025-05-29-at-07.30.39-scaled.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=GMkQUYjz9j0

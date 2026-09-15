@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "AR-14-Social-Distancing-WP.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=dNMXNquXHBk&feature=youtu.be

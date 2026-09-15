@@ -13,6 +13,8 @@ tags:
   - "relief"
   - "responsibility"
 coverImage: "maxresdefault.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/-YbAuDGTynE

@@ -16,6 +16,8 @@ tags:
   - "vienna-terror-attacks"
   - "yael-ossowski"
 coverImage: "mjcYT-1.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=P2EoAx9j6Z4

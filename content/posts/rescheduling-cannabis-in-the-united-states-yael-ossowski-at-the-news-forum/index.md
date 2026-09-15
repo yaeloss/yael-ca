@@ -1,12 +1,13 @@
 ---
 title: "Rescheduling Cannabis in the United States - Yael Ossowski at The News Forum"
 date: 2023-09-07
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "cannabis"
 coverImage: "hqdefault-1.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=RVUmyFkUxYU

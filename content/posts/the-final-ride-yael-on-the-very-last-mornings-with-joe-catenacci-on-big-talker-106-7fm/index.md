@@ -14,6 +14,8 @@ tags:
   - "the-final-ride"
   - "yael-ossowski"
 coverImage: "FINAL-RIDE.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/2v4cprs2GBA

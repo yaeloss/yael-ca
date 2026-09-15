@@ -11,6 +11,8 @@ tags:
   - "interviews"
   - "mushrooms"
 coverImage: "YOdecentralize.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/J1Tlz0KqRso

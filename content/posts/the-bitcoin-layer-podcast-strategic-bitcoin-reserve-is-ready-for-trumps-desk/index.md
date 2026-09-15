@@ -1,9 +1,9 @@
 ---
 title: "The Bitcoin Layer Podcast: Strategic Bitcoin Reserve Is Ready for Trump’s Desk"
 date: 2025-01-08
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "biden"
   - "bitcoin"
@@ -12,6 +12,8 @@ tags:
   - "net-neutrality"
   - "policy"
 coverImage: "Screenshot-2025-01-08-at-09.54.44.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=K7Gnh3zxgC4

@@ -1,9 +1,8 @@
 ---
 title: "Heard Tell Radio: Ukrainian Refugees, EU POV of Russia's Aggression, & Technology Adapting To Crisis￼"
 date: 2022-03-03
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "refugees"
   - "russia"
@@ -11,6 +10,8 @@ tags:
   - "tor"
   - "ukraine"
 coverImage: "heard-tell.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/thGLQ9qzaOY

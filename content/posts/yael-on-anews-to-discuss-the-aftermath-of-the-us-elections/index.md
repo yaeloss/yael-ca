@@ -1,9 +1,8 @@
 ---
 title: "Yaël on ANews to discuss the aftermath of the US Elections"
 date: 2020-11-09
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "anews"
   - "biden"
@@ -12,6 +11,8 @@ tags:
   - "trump"
   - "yael-ossowski"
 coverImage: "Screenshot-2020-11-09-20.18.31.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/rQzODRwDCj8

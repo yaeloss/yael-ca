@@ -11,6 +11,8 @@ tags:
   - "who"
   - "world-health-organization"
 coverImage: "energy-symbolism.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/wh5PlDdB9lQ

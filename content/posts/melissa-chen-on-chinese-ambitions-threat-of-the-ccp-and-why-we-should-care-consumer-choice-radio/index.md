@@ -11,6 +11,8 @@ tags:
   - "consumer-choice-radio"
   - "melissa-chen"
 coverImage: "39-mc.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=ilB36fySk6Y&feature=youtu.be

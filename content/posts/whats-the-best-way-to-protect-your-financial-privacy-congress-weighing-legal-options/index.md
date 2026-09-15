@@ -1,14 +1,16 @@
 ---
 title: "What’s the best way to protect your financial privacy? Congress weighing legal options"
 date: 2024-10-29
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "bank-secrecy-act"
   - "financial-privacy"
   - "privacy"
   - "saving-privacy-act"
 coverImage: "saving-privacy.png"
+formats:
+  - "video"
 ---
 
 “Something that we’ve lost as American consumers is financial privacy,” Yael Ossowski, Consumer Choice Center, told **Channel 2 Action News.** “Essentially, we have financial surveillance.”

@@ -17,6 +17,8 @@ tags:
   - "redstate"
   - "reform"
 coverImage: "LM.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/B4cR3phfZ-4

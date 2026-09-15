@@ -1,9 +1,9 @@
 ---
 title: "FOX 5: The EU vs US on Big Tech Regulation"
 date: 2025-09-12
-categories: 
+categories:
   - "fox5-dc"
-  - "videos"
+  - "interviews"
 tags: 
   - "eu"
   - "european-union"
@@ -11,6 +11,8 @@ tags:
   - "tech"
   - "tech-regulation"
 coverImage: "EU-Tech.jpg"
+formats:
+  - "video"
 ---
 
 Egle Markeviciute and Yael Ossowski of the Consumer Choice Center join FOX 5 DC Jim Lokay to break down the clash between European regulators and American tech companies.[](https://www.youtube.com/@ConsumerChoiceCenter)

@@ -1,15 +1,16 @@
 ---
 title: "Urban Exploring in Detroit"
 date: 2018-09-26
-categories: 
+categories:
   - "blog"
-  - "videos"
 tags: 
   - "blog"
   - "detroit"
   - "michigan"
   - "urban-exploration"
   - "urban-exploring"
+  - "video"
+formats:
   - "video"
 ---
 

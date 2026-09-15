@@ -1,14 +1,16 @@
 ---
 title: "FRASCAR: DEBRIEF NASCAR - CHASE ELLIOTT CHAMPION - AVEC YAEL OSSOWSKI"
 date: 2020-11-12
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "francais"
   - "frascar"
   - "interviews"
   - "nascar"
 coverImage: "maxresdefault_live.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=b97YWnF2Nk0

@@ -10,6 +10,8 @@ tags:
   - "joe-catenacci"
   - "state-of-the-union"
 coverImage: "JOE-SOTU-YT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/tYUVy6eIyZc

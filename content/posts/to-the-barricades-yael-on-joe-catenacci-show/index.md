@@ -11,6 +11,8 @@ tags:
   - "interviews"
   - "vaccines"
 coverImage: "BARRICADESYT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/WiK-shbSST4

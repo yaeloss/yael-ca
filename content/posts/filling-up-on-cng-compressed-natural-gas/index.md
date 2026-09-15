@@ -1,12 +1,12 @@
 ---
 title: "Filling Up on CNG: Compressed Natural Gas"
 date: 2019-09-03
-categories: 
-  - "videos"
 tags: 
   - "natural-gas"
   - "video"
 coverImage: "FILLING-UP-ON-NATURAL-GAS.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/qkMTdqzgvk8

@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "to-mask-YT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/WQUlgLdtE64

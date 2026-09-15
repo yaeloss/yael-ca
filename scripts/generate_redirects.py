@@ -36,6 +36,15 @@ def build_redirects(manifest):
             # WordPress default: 10 posts/page. These now live in one archive.
             for page in range(1, math.ceil(term["count"] / 10) + 1):
                 redirects[f"{source}page/{page}/"] = term["url"]
+    terms = {term["url"]: term for term in manifest["terms"]}
+    for old, target in manifest.get("archiveMoves", {}).items():
+        if old in terms or target not in terms:
+            raise ValueError(f"Invalid archive move: {old} -> {target}")
+        sources = [old, old.replace("/categories/", "/category/", 1)]
+        for source in set(sources):
+            redirects[source] = target
+            for page in range(1, math.ceil(terms[target]["count"] / 10) + 1):
+                redirects[f"{source}page/{page}/"] = target
     for page in range(1, math.ceil(len(manifest["posts"]) / 10) + 1):
         redirects[f"/page/{page}/"] = "/posts/"
     return redirects

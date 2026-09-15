@@ -15,6 +15,8 @@ tags:
   - "lynsander-spooner"
   - "suez"
 coverImage: "12marchmjc.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/ENsTBVSO-QM

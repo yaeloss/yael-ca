@@ -9,6 +9,8 @@ tags:
   - "upzoning"
   - "yimbyism"
 coverImage: "bigtalker.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/vU\_RQxfHwCM

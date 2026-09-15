@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "alexnorcia.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep35-alex-norcia-on-vaping-black-markets-cannabis/embed" width="100%" height="180" frameborder="0" title="EP35: Alex Norcia on vaping, black markets, cannabis, future of journalism"></iframe>

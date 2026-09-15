@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "radio"
 coverImage: "Screenshot-2020-04-14-13.31.19.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/my3R4Q0XkEY

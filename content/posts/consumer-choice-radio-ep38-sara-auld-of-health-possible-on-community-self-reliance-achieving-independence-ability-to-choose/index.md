@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "1saraauld.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/i0Z8Twmynd8

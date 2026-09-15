@@ -4,8 +4,10 @@ title: Antitrust, Consumer Habits & Other Headwinds Facing Media Mergers | Yaël
 date: 2026-07-24T13:13:00.000-04:00
 draft: false
 categories:
-  - Videos
+  - "interviews"
 featured_image: images/uploads/yo-merger.jpg
+formats:
+  - "video"
 ---
 Media companies must compete for our eyeballs and attention. But they should do that and compete on an open field rather than subject them to antitrust lawsuits and courtrooms, where consumers aren't represented. 
 

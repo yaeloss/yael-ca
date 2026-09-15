@@ -4,6 +4,10 @@
         <h1 class="header-title center">{{ .Title }}</h1>
     </header>
     <main class="page-content" aria-label="Content">
+        {{ if in (slice "categories" "formats") .Section }}
+        {{ partial "media-nav.html" . }}
+        {{ end }}
+        {{ .Content }}
         <ul class="terms-list">
             {{ range .Data.Terms.Alphabetical }}
             <li class="terms-item">

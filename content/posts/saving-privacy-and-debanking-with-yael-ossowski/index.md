@@ -1,15 +1,17 @@
 ---
 title: "Saving Privacy and Debanking with Yaël Ossowski"
 date: 2025-01-13
-categories: 
+categories:
   - "bitcoin"
   - "bitcoin-policy-institute"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin"
   - "debanking"
   - "saving-privacy-act"
 coverImage: "bpi-privacy.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/juqo7M0PF3w?si=SDYn-rMlyR\_RGwaH

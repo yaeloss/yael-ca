@@ -12,6 +12,8 @@ tags:
   - "restrictions"
   - "yael-ossowski"
 coverImage: "winging-it-YT.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/Q3ufnkod1wI

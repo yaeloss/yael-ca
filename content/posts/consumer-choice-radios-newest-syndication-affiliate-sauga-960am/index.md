@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "YT-DC-YO-CCR-SAUGA-960AM-2.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/8ovt5XGiRB4

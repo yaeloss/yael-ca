@@ -13,6 +13,8 @@ tags:
   - "lawsuit"
   - "yael-ossowski"
 coverImage: "flights.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/ccc/why-americans-dont-have-cheap-flights-ya-l-on-big/embed" width="100%" height="180" frameborder="0" title="Why Americans Don't Have Cheap Flights | Yaël on Big Talker FM"></iframe>

@@ -87,7 +87,8 @@ def main(destination):
     posts = {base + entry["url"] for entry in manifest["posts"]}
     assert posts <= urls, "Posts missing from sitemap"
     hubs = {base + f"/tags/{slug}/" for slug in ["bitcoin", "tech", "legal-reform"]}
-    archives = {url for url in urls if url.startswith((base + "/tags/", base + "/categories/"))}
+    hubs |= {base + f"/categories/{slug}/" for slug in ["interviews", "talks-panels"]}
+    archives = {url for url in urls if url.startswith((base + "/tags/", base + "/categories/", base + "/formats/"))}
     assert archives == hubs, archives
     assert "Sitemap: " + base + "/sitemap.xml" in (root / "robots.txt").read_text()
     assert "Disallow: /" not in (root / "robots.txt").read_text()
@@ -110,7 +111,7 @@ def main(destination):
     assert cover.meta["og:image"] == [base + "/posts/legal-advertising-needs-to-be-ready-for-ai-boom/images/ai-law.png"]
     assert len(cover.meta["og:image:width"]) == len(cover.meta["og:image:height"]) == 1
     assert "/tags/legal-reform/" in cover.links
-    print(f"Passed: {len(posts)} articles, {len(urls)} sitemap URLs, {len(hubs)} topic hubs, {len(redirects)} redirects.")
+    print(f"Passed: {len(posts)} articles, {len(urls)} sitemap URLs, {len(hubs)} curated hubs, {len(redirects)} redirects.")
     print(f"Social images: {len(posts) - fallback_images} article images; {fallback_images} use the site fallback.")
 
 

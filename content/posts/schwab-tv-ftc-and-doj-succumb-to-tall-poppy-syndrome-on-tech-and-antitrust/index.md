@@ -14,6 +14,8 @@ tags:
   - "schwab-network"
   - "tall-poppy-syndrome"
 coverImage: "schwab.png"
+formats:
+  - "video"
 ---
 
 On 360 Round with anchor Nicole Petallides on Schwab Network, I discussed recent antitrust actions by the FTC and the DOJ, and how this is harmful not only to American innovation, but also to the choices and well-being of consumers.

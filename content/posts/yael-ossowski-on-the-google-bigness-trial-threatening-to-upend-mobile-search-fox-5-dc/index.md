@@ -1,15 +1,16 @@
 ---
 title: "Yaël Ossowski on the Google 'bigness' trial threatening to upend mobile search | Fox 5 DC"
 date: 2023-09-11
-categories: 
+categories:
   - "fox5-dc"
   - "interviews"
-  - "videos"
 tags: 
   - "antitrust"
   - "google"
   - "lawsuit"
 coverImage: "maxresdefault.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=1okUyuN00ZU

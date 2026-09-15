@@ -11,6 +11,8 @@ tags:
   - "consumer-choice-center"
   - "consumer-choice-radio"
 coverImage: "banner2.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=0yJvls01Qbc

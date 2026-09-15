@@ -11,6 +11,8 @@ tags:
   - "geoff-whaling"
   - "hemp"
 coverImage: "GEOFF-CCR.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/4\_7Cj3Yqbhk

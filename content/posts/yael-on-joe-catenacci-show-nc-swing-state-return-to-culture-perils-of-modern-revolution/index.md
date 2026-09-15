@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "radio"
 coverImage: "SEPT4MJC.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/JtHCIC6Rxu4

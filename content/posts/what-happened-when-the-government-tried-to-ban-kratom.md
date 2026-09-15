@@ -2,9 +2,9 @@
 title: What happened when the government tried to ban kratom
 date: 2026-04-15T22:29:00.000+02:00
 draft: false
-categories:
-  - Videos
 featured_image: images/uploads/7oh.jpg
+formats:
+  - "video"
 ---
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/uQ6jHraBTKc?si=J56LS00_0iAEbyhT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 

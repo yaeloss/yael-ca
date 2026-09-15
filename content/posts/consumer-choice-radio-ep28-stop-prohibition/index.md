@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "WILLIE.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/YWQVmLzDonM

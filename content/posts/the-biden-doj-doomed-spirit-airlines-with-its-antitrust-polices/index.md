@@ -1,9 +1,8 @@
 ---
 title: "The Biden DOJ doomed Spirit Airlines with its antitrust polices"
 date: 2024-11-13
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "antitrust"
   - "biden"
@@ -13,6 +12,8 @@ tags:
   - "mergers"
   - "spirit-airlines"
 coverImage: "Screenshot-2024-11-13-at-20.53.48.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/1wHjmdD6Hd8

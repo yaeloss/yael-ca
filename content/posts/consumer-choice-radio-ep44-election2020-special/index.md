@@ -11,6 +11,8 @@ tags:
   - "election2020"
   - "podcast"
 coverImage: "CCR-Episode-8.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=FkC3gM1EBKA&feature=emb\_title

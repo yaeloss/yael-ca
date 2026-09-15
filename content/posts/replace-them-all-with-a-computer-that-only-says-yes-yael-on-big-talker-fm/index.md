@@ -12,6 +12,8 @@ tags:
   - "north-carolina"
   - "senate"
 coverImage: "COMPUTERSYT.jpg"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/ccc/replace-them-all-with-a-computer-that-only-says-ye/embed" width="100%" height="180" frameborder="0" title="Replace them all with a computer that only says \" yes\"="" |="" yaël="" on="" big="" talker="" fm"=""></iframe>

@@ -8,6 +8,8 @@ tags:
   - "bitcoin"
   - "rabbit-hole-stories"
 coverImage: "maxresdefault.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/QVH9CCze3wk

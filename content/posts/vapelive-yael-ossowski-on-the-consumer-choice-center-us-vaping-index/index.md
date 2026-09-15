@@ -1,9 +1,8 @@
 ---
 title: "VapeLive: Yaël Ossowski on the Consumer Choice Center US Vaping Index"
 date: 2020-11-17
-categories: 
-  - "interviews"
-  - "videos"
+categories:
+  - "talks-panels"
 tags: 
   - "consumer-choice-center"
   - "presentation"
@@ -11,6 +10,8 @@ tags:
   - "vape-live"
   - "vaping"
 coverImage: "YO-vape-live.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/xKsJ-Oq7snI

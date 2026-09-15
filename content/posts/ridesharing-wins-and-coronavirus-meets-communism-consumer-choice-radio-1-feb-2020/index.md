@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "Copy-of-ridehsaring.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/CU1HcjNfCq0

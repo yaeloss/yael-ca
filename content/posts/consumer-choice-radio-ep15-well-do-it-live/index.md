@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "Well-do-it-live-YT.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=AtCIG9OOUnI&feature=youtu.be

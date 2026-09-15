@@ -13,6 +13,8 @@ tags:
   - "huawei"
   - "trump"
 coverImage: "FBmayoral-memes.png"
+formats:
+  - "video"
 ---
 
 ![](images/FBmayoral-memes-1024x502.png)

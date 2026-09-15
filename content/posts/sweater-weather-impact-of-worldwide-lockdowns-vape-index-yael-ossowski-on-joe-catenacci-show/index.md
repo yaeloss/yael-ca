@@ -15,6 +15,8 @@ tags:
   - "vienna"
   - "weather"
 coverImage: "oct2mjc-2.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/GTnrc5VW5KU

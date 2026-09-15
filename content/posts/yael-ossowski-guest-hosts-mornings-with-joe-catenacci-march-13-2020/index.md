@@ -10,6 +10,8 @@ tags:
   - "video"
   - "yael-ossowski"
 coverImage: "yael-oss.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/Xko3Gk1XVG4

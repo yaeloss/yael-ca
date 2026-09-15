@@ -1,12 +1,13 @@
 ---
 title: "Interview on Savannah TV: Vaping Tax Hurts Poor Consumers"
 date: 2020-07-06
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "interviews"
 coverImage: "YO-tv.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/3n9-h4FWTfg

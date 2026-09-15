@@ -15,6 +15,8 @@ tags:
   - "radio"
   - "randal-meyer"
 coverImage: "WP-Dont-Panic.png"
+formats:
+  - "video"
 ---
 
 ![](images/WP-Dont-Panic-1024x536.png)

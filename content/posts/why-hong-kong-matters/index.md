@@ -9,6 +9,8 @@ tags:
   - "interviews"
   - "video"
 coverImage: "HONGKONG.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=FVgXR1Oq4UI&feature=youtu.be

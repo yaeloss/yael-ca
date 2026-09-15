@@ -4,8 +4,10 @@ title: "Teen bans on social media and AI chatbots in Canada: technically dubious
 date: 2026-04-29T12:32:00.000-07:00
 draft: false
 categories:
-  - Video
+  - "interviews"
 featured_image: images/uploads/chatbot.png
+formats:
+  - "video"
 ---
 Bans on teens using social media and AI chatbots may be politically popular in Canada, but they're technically dubious and constitutionally a huge question mark.
 

@@ -12,6 +12,8 @@ tags:
   - "deficits"
   - "trudeau"
 coverImage: "TRUDEAU-YT.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep68-budget-bonanza-w-franco-terrazzano/embed" width="100%" height="180" frameborder="0" title="EP68: Budget Bonanza (w/ Franco Terrazzano)"></iframe>

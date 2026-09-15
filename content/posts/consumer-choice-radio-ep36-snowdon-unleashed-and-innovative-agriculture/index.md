@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "snowdonhigh.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep36-snowdon-unleashed-and-innovative-agriculture/embed" width="100%" height="180" frameborder="0" title="EP36: SNOWDON UNLEASHED and Innovative Agriculture"></iframe>

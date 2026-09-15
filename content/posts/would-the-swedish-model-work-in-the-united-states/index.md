@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "video"
 coverImage: "swedishmodel-youtube.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=leHV45\_t-DA&feature=youtu.be

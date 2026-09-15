@@ -15,6 +15,8 @@ tags:
   - "lillian-beecroft"
   - "radio"
 coverImage: "Welcome-Team-1.png"
+formats:
+  - "video"
 ---
 
 On Wednesday, I had the privilege of hosting the morning radio program on [Big Talker 106.7FM](http://bigtalkerfm.com), Mornings with Joe Catenacci, while Joe took a much-needed break.

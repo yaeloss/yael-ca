@@ -25,6 +25,8 @@ tags:
   - "wilmington"
   - "yael-ossowski"
 coverImage: "Big-Talker-FM-1.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/GYoLMDW9AsE

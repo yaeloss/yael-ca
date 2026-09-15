@@ -12,6 +12,8 @@ tags:
   - "radio"
   - "world-health-organization"
 coverImage: "oct2mjc-1.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/iWx42J3ptNk

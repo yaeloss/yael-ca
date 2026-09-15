@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "one-dose-summer.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep71-one-dose-summer/embed" width="100%" height="180" frameborder="0" title="EP71: One Dose Summer"></iframe>

@@ -6,6 +6,8 @@ categories:
   - "interviews"
 tags: 
   - "blog"
+formats:
+  - "video"
 ---
 
 <iframe src="https://www.youtube.com/embed/DeqtaMRiSkA" width="560" height="315" frameborder="0" allowfullscreen></iframe>

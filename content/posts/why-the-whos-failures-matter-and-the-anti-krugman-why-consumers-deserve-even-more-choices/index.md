@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "KRUGMANyt.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/cZ5K8VZPfWg

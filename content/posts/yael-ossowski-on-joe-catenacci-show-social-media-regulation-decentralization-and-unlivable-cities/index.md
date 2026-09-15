@@ -16,6 +16,8 @@ tags:
   - "social-media-regulation"
   - "video"
 coverImage: "bigtalker.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=-HQBevofajA

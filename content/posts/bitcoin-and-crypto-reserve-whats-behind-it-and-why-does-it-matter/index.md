@@ -1,15 +1,17 @@
 ---
 title: "Bitcoin and Crypto Reserve? What's behind it and why does it matter?"
 date: 2025-03-03
-categories: 
+categories:
   - "bitcoin"
-  - "videos"
+  - "interviews"
 tags: 
   - "bitcoin"
   - "bitcoin-strategic-reserve"
   - "crypto"
   - "trump"
 coverImage: "bitcoin-yael-ossowski-steve-gruber-show.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=thOKcn4gqik

@@ -8,6 +8,8 @@ tags:
   - "interviews"
   - "video"
 coverImage: "bigtalker.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/ufK-Fb7fOlI

@@ -11,6 +11,8 @@ tags:
   - "immigration"
   - "joshua-childress"
 coverImage: "JOSHUSA-CHILDRESS-CCR.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/MRMm9iaMSq4

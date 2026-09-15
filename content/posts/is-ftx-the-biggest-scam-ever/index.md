@@ -1,12 +1,14 @@
 ---
 title: "Is FTX the biggest scam ever?"
 date: 2022-12-02
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "ftx"
   - "scam"
 coverImage: "hqdefault.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/Hr4j9H9TLq4?t=942

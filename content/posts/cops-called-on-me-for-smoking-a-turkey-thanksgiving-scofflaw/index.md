@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "scofflaw.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/cAJYDSbVxYk

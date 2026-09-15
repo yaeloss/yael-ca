@@ -11,6 +11,8 @@ tags:
   - "etf"
   - "samourai-wallet"
 coverImage: "iENG-Yael-Ossowski-1024x576-1.webp"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=gRSfOGNhMpc

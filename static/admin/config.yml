@@ -21,9 +21,18 @@ collections:
         widget: "list"
         required: false
         default: []
+        hint: 'Use "interviews" for TV, radio, podcast, or YouTube interviews; "talks-panels" for presentations, panels, and testimony. Choose Video under Formats instead of adding a video category.'
         field:
           label: "Category"
           name: "category"
           widget: "string"
+      - label: "Formats"
+        name: "formats"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - {label: "Video", value: "video"}
+        hint: "Select Video when the post includes or links to a video recording. Leave empty for audio-only interviews and written articles."
       - {label: "Featured Image", name: "featured_image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "richtext"}

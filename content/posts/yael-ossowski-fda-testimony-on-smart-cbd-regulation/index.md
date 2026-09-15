@@ -1,9 +1,8 @@
 ---
 title: "Yaël Ossowski FDA Testimony on Smart CBD Regulation"
 date: 2019-06-05
-categories: 
-  - "testimony"
-  - "videos"
+categories:
+  - "talks-panels"
 tags: 
   - "cannabis"
   - "fda"
@@ -11,6 +10,8 @@ tags:
   - "video"
   - "yael-ossowski"
 coverImage: "Yael_ossowski_FDA.png"
+formats:
+  - "video"
 ---
 
 https://youtu.be/zTHp0-x2dkM

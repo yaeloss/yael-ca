@@ -4,8 +4,10 @@ title: Aussie Social Media Ban is Failing in Realtime. What other countries
 date: 2026-07-01T14:05:00.000+02:00
 draft: false
 categories:
-  - Videos
+  - "interviews"
 featured_image: images/uploads/aussie-ban.jpg
+formats:
+  - "video"
 ---
 Consumer Choice Center Deputy Director Yaël Ossowski is interviewed on Forum Daily on the proposed amendments to Australia's teen social media ban. 
 

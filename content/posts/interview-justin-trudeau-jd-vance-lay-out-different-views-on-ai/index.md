@@ -1,13 +1,15 @@
 ---
 title: "Interview: Justin Trudeau &amp; JD Vance Lay Out Different Views on AI"
 date: 2025-02-14
-categories: 
-  - "videos"
+categories:
+  - "interviews"
 tags: 
   - "ai"
   - "trudeau"
   - "vance"
 coverImage: "AI-NF.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=YVqkOIKRPz4

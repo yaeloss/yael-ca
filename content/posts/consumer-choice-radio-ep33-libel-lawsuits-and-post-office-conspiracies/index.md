@@ -8,6 +8,8 @@ categories:
 tags: 
   - "consumer-choice-radio"
 coverImage: "ROSSM.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep33-libel-lawsuits-and-post-office-conspiracies/embed" width="100%" height="180" frameborder="0" title="EP33: Libel Lawsuits and Post Office Conspiracies"></iframe>

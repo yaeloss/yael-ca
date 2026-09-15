@@ -13,6 +13,8 @@ tags:
   - "legalizefun"
   - "vape"
 coverImage: "G-BENTLEY.png"
+formats:
+  - "video"
 ---
 
 <iframe src="https://omny.fm/shows/consumerchoiceradio/ep46-guy-bentley-on-legalizing-fun-and-consumer-fr/embed?style=cover" frameborder="0" width="100%" height="180"></iframe>

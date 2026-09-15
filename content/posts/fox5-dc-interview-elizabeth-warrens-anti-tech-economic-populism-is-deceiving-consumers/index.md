@@ -11,6 +11,8 @@ tags:
   - "encryption"
   - "imessage"
 coverImage: "fox5.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=olP84VwCyeM

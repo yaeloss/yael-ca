@@ -11,6 +11,8 @@ tags:
   - "video"
   - "wilmington"
 coverImage: "TheBigTalker106_7_FM.jpg"
+formats:
+  - "video"
 ---
 
 https://youtu.be/ZHx8sJNiy3Y

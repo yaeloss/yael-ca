@@ -7,6 +7,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "LEGALREFORM-youtube.png"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=thSr9UOziKw

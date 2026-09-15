@@ -6,6 +6,8 @@ categories:
 tags: 
   - "interviews"
 coverImage: "yael-great-dot-com.jpg"
+formats:
+  - "video"
 ---
 
 https://www.youtube.com/watch?v=4H\_\_vTKeX40&feature=emb\_logo

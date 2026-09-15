@@ -1,9 +1,8 @@
 ---
 title: "Kibbe on Liberty: Congress Is Using Kids to Impose Online Censorship"
 date: 2024-02-28
-categories: 
+categories:
   - "interviews"
-  - "videos"
 tags: 
   - "bitcoin"
   - "control"
@@ -17,6 +16,8 @@ tags:
   - "privacy"
   - "yael-ossowski"
 coverImage: "GHXmke3XEAAJy_D.jpg"
+formats:
+  - "video"
 ---
 
 While I was in Washington, D.C., I spoke to freedom maximalist and "Don't Hurt People and Don't Take Their Stuff" author Matt Kibbe about online privacy and the Internet, the Kids Online Safety Act, Bitcoin and its enemies, central bank digital currencies, and the weaponization of the FTC.

@@ -1,0 +1,7 @@
+<nav class="media-nav" aria-label="Browse posts">
+  {{- range slice "/posts" "/categories/interviews" "/categories/talks-panels" "/formats/video" -}}
+    {{- with $.Site.GetPage . -}}
+    <a href="{{ .RelPermalink }}"{{ if eq $.RelPermalink .RelPermalink }} aria-current="page"{{ end }}>{{ if eq .Section "posts" }}All posts{{ else }}{{ .Title }}{{ end }}</a>
+    {{- end -}}
+  {{- end -}}
+</nav>
