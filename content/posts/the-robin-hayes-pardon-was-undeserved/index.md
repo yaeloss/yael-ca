@@ -44,4 +44,4 @@ As a young college student interested in politics, I wrote to Hayes’ office in
 
 My opposition to the unfairness of corporate welfare aside, there is no doubt that Hayes has been a towering figure in North Carolina politics, love him or hate him. But owing to his alleged crimes and breach of the public trust, his presidential pardon would have been better used for someone else.
 
-_This article was published in the [Queen City Nerve](https://qcnerve.com/robin-hayes-pardon/) (archive [#1](https://archive.yael.live/archive/1789647721.53063/qcnerve.com/robin-hayes-pardon/index.html/), [#2](https://web.archive.org/web/20260917122303/https://qcnerve.com/robin-hayes-pardon/)._
+_This article was published in the [Queen City Nerve](https://qcnerve.com/robin-hayes-pardon/) (archive [#1](https://archive.yael.live/archive/1789647721.53063/qcnerve.com/robin-hayes-pardon/index.html/), [#2](https://web.archive.org/web/20260917122303/https://qcnerve.com/robin-hayes-pardon/))._
