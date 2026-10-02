@@ -1,7 +1,7 @@
 ---
 title: "De carré rouge à arc-en-ciel : pourquoi les étudiants doivent voter pour la CAQ"
 date: 2012-09-03
-coverImage: "montreal.png"
+coverImage: "carre-rouge-vote-featured.webp"
 tags: 
   - "blog"
   - "francais"
