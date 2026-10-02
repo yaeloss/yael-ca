@@ -10,7 +10,9 @@ Quelques jours avant les élections provinciales au Québec, je suis frappé par
 
 Après plus d'une décennie d'un système replié sur lui-même, où l'on ne remettait en question la raison d'être et la structure du modèle québécois d'État-providence qu'à voix basse, dans les corridors, le virage vers l'autonomie individuelle est bien amorcé.
 
-Le Parti Québécois semble prêt à former un gouvernement, majoritaire ou minoritaire, en prônant des idées plus conservatrices et sceptiques face à un État lourd. La domination de la CAQ s'est affaiblie, voire effondrée, après des années de clientélisme. Et le Parti conservateur du Québec n'est pas seulement admis à la table : il a imposé la plupart des thèmes du débat actuel.
+Le Parti Québécois semble prêt à former un gouvernement, majoritaire ou minoritaire, en défendant des idées plus conservatrices et en critiquant la lourdeur de l'État. Cela se voit dans ses promesses de supprimer des postes de fonctionnaires, de réduire la bureaucratie et le gaspillage dans le secteur publique, et de baisser les impôts.
+
+La domination de la CAQ s'est affaiblie, voire effondrée, après des années de clientélisme. Et le Parti conservateur du Québec n'est pas seulement admis à la table : il a imposé la plupart des thèmes du débat actuel, y compris des idées que le PQ reprend aujourd'hui à son compte.
 
 Non seulement les Québécois changeront-ils de gouvernement, mais ils se libéreront aussi de l'idée qu'il faut protéger le statu quo à tout prix.
 
